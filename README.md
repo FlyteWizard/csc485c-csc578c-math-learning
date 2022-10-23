@@ -1,0 +1,2 @@
+# csc
+CSC obsidian vault
