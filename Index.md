@@ -1,2 +1,2 @@
-# Learning math with techology
+#  Learning Mathematics with Systems and Technology
 
