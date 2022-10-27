@@ -1,0 +1,4 @@
+Learning is the process of acquiring new understanding, knowledge, behaviors, skills, values, attitudes, and preferences [[6]].
+
+
+

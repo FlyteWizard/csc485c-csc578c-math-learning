@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2b44746c345685b6",
+            "id": "8ca75bb8f882c436",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "89eeee67d21f0695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Artificial Intelligence.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed9ff55cc08df643",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technology/Augmented Reality.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a4e9b357ecb1497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
+                "file": "Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Learning.md"
               }
             }
           }
@@ -176,12 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "6a4e9b357ecb1497",
+  "active": "8ca75bb8f882c436",
   "lastOpenFiles": [
-    "README.md",
+    "Educational technology.md",
+    "Learning.md",
     "Index.md",
-    "Technology/Artificial Intelligence.md",
-    "Technology/Augmented Reality.md",
-    "Technology/Virtual Reality.md"
+    "References/6.md",
+    "References.md",
+    "References/1.md",
+    "Types of Learning/Types of Learning.md",
+    "Learning with Technology.md",
+    "Educational technology for Mathematics/Learning with Technology.md",
+    "Educational Technology for Mathematics/Computer and Mobile Based Learning.md"
   ]
 }
