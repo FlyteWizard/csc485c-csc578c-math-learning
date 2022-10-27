@@ -1,0 +1,5 @@
+# Modeling 3D Objects with GeoGebra
+
+GeoGebra is a software system designed to create an environment where learners can model and visualize both data and shapes [1].  It is available in both an [[Augmented Reality]] (AR) environment as well as a web application.  This system, created for various age groups from teens to university students, assists learners by giving them a 3-dimensional space to plot points, lines, and models of geometric shapes.  Like many of the geometric modelling systems, this is to incorporate a precise and efficient method of visualizing shapes in an educational context.  Shown in Figure 1, learners can create on abject and dynamically alter it to help assist and augment geometric learning.  The controls are more complicated, but the learner can alter their level of difficulty by selecting various modes of the interface like beginner or programmer. 
+
+[1] “About Geogebra,” What is GeoGebra? [Online]. Available: https://www.geogebra.org/about. [Accessed: 25-Oct-2022].**
