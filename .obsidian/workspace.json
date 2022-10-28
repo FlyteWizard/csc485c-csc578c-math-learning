@@ -8,20 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "13b11d07e4da2f41",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "78607606949eedf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d5e10798fa63fc82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of Learning/Explain Everything Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,19 +146,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "78607606949eedf4",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
+    "Types of Learning/Learning.md",
+    "Types of Learning/Explain Everything Learning.md",
+    "Types of Learning/Types of Learning.md",
     "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/MathOMatic Blocks.md",
     "Index.md",
     "Educational technology.md",
-    "Types of Learning/Types of Learning.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md",
-    "Learning.md",
-    "Educational Technology for Mathematics/Mobile and Web-Based Learning/Mobile Systems/Ancient Analog Calculator.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md",
-    "Types of Learning/Game-Based Learning.md"
+    "Learning.md"
   ]
 }

@@ -19,8 +19,6 @@ Figure 2. An image of students interacting with projected currency.
 
 The tabletop system is another version to [[physical application learning]]. It relies on augmenting the learning routine to teach mathematics tangibly. The ease of use and manipulation, as suggested by the study, contributed to mathematical learning especially for students with supplemental educational needs.
 
-
-
 [^1]: M. Niss. 1995. "Las matemáticas en la sociedad. UNO Revista de didáctica de las matemáticas", 2(6), 45-57.
 
 [^2]: A. Cascales-Martínez, M.-J. Martínez-Segura, D. Pérez-López, and M. Contero. "Using an Augmented Reality Enhanced Tabletop System to Promote Learning of Mathematics: A Case Study with Students with Special Educational Needs". \[Online\]. Available: https://doi.org/10.12973/eurasia.2017.00621a. \[Accessed: 27-Oct-2022\].
