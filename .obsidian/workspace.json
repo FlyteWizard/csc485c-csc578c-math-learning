@@ -4,49 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "f235ea8a550be372",
-        "type": "split",
-        "children": [
-          {
-            "id": "1323df8baa752270",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b134462cf984e441",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          },
-          {
-            "id": "d4c5d186396ff4c7",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8d894b0522beb350",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
-      },
-      {
         "id": "a300be4c43ef6394",
         "type": "tabs",
         "children": [
@@ -56,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
+                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,14 +85,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
+                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -145,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
+                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -168,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md"
+                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md"
               }
             }
           }
@@ -176,19 +133,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "a4fc79cb16625051",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Mobile and Web-Based Learning/Mobile Systems/Ancient Analog Calculator.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md",
-    "Types of Learning/Game-Based Learning.md",
+    "Index.md",
+    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
+    "Assets/Construct3D/Construct3D Display.png",
     "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
-    "Assets/Tabletop/Tabletop Example.png",
-    "Assets/Tabletop/Tabletop Machine.png",
-    "Assets/ClassVR Headset.png",
-    "Assets/GeoGebra Display.png",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md"
+    "Types of Learning/Game-Based Learning.md",
+    "Types of Learning/Learning for adults.md",
+    "Types of Learning/Learning for kids.md",
+    "Types of Learning/Learning for teenagers.md",
+    "Types of Learning/learning theory.md",
+    "Types of Learning/Types of Learning.md"
   ]
 }
