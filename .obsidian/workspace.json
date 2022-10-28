@@ -1,43 +1,52 @@
 {
   "main": {
-    "id": "b69d68c4f96a154c",
+    "id": "6c18c698216b6964",
     "type": "split",
     "children": [
       {
-        "id": "a300be4c43ef6394",
+        "id": "3d8cf550c7bba6bb",
         "type": "tabs",
         "children": [
           {
-            "id": "a4fc79cb16625051",
+            "id": "e517d196dd4d7eae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Index.md",
-=======
-                "file": "Educational technology.md",
->>>>>>> ec7febaebb9ff96c19e210fa170901fb3b91e656
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4139e647076c9feb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6a71590cf4966798",
+    "id": "4568666b6e9c42ec",
     "type": "split",
     "children": [
       {
-        "id": "88192324a6dfab59",
+        "id": "1864083936ee8df1",
         "type": "tabs",
         "children": [
           {
-            "id": "882623f1185657ad",
+            "id": "ebe98064f52f8514",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +56,7 @@
             }
           },
           {
-            "id": "42ad8d26b3975482",
+            "id": "232d86e3f4bc781a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +71,7 @@
             }
           },
           {
-            "id": "4bbd34f71efdf2a8",
+            "id": "0b93680800a9fcc8",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -76,72 +85,60 @@
     "width": 300
   },
   "right": {
-    "id": "d8c5553fd343a541",
+    "id": "978a331fdd68298e",
     "type": "split",
     "children": [
       {
-        "id": "c545a61f37005c01",
+        "id": "beba492826f3c51b",
         "type": "tabs",
         "children": [
           {
-            "id": "7e6681c19f800c49",
+            "id": "2111bc3753d014a9",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Index.md",
-=======
-                "file": "Educational technology.md",
->>>>>>> ec7febaebb9ff96c19e210fa170901fb3b91e656
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aff408152e4b2958",
+            "id": "15c0055ac005cd3d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Index.md",
-=======
-                "file": "Educational technology.md",
->>>>>>> ec7febaebb9ff96c19e210fa170901fb3b91e656
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "02127564b35762f9",
+            "id": "9f5b2ff65c37cea0",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "79e7ad373dcea441",
+            "id": "f841b1aac77f368d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Index.md"
-=======
-                "file": "Educational technology.md"
->>>>>>> ec7febaebb9ff96c19e210fa170901fb3b91e656
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md"
               }
             }
           }
@@ -152,29 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4fc79cb16625051",
+  "active": "ebe98064f52f8514",
   "lastOpenFiles": [
-    "Educational technology.md",
-    "Index.md",
-<<<<<<< HEAD
-    "Learning.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/NeoTrieVR.md",
-    "Types of Learning/Learning for adults.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
-    "Types of Learning/Learning for kids.md",
-    "Types of Learning/Learning theory.md",
-    "Types of Learning/Types of Learning.md"
-=======
-    "Educational technology.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/VRMath.md",
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/NeoTrieVR.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/MathOMatic Blocks.md"
->>>>>>> ec7febaebb9ff96c19e210fa170901fb3b91e656
+    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Based Learning.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
+    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/MathOMatic Blocks.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md"
   ]
 }
