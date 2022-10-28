@@ -1,3 +1,7 @@
+---
+tags: [physical,mathematical-learning]
+---
+
 # Learning Math with Touch and Movement
 
 Physical Learning is the notion that a student learns through movement and touch [^1].  In mathematics, touch is used fairly commonly to help augment the learning routine.  Examples of physical learning in mathematics include the Abacus, counting blocks (Figure 1), counting fingers, and more.  Furthermore, learners with visual disabilities utilize braille to learn mathematics, which is a form of augmenting written language to adapt to touch.  With advancing technology, systems that augment physical learning in math are being researched and developed for a more math-forward future.  These technologies make it easier for students to either model mathematical concepts, or help decipher the conceptual language for them.
