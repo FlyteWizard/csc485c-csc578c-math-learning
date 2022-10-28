@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md"
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "a4fc79cb16625051",
   "lastOpenFiles": [
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md",
+    "Educational Technology for Mathematics/Mobile and Web-Based Learning/Computer and Mobile Based Learning.md",
+    "Educational Technology for Mathematics/Mobile and Web-Based Learning/Mobile Systems/Albert.md",
+    "Types of Learning/Learning.md",
     "Index.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
-    "Assets/Construct3D/Construct3D Display.png",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
-    "Types of Learning/Game-Based Learning.md",
-    "Types of Learning/Learning for adults.md",
-    "Types of Learning/Learning for kids.md",
-    "Types of Learning/Learning for teenagers.md",
-    "Types of Learning/learning theory.md",
-    "Types of Learning/Types of Learning.md"
+    "Educational Technology for Mathematics/Web Based Learning.md"
   ]
 }
