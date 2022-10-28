@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md"
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md"
               }
             }
           }
@@ -149,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ebe98064f52f8514",
+  "active": "4139e647076c9feb",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/VRMath.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/NeoTrieVR.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Based Learning.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
     "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/MathOMatic Blocks.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md"
+    "Types of Learning/Learning.md",
+    "Types of Learning/Learning for adults.md",
+    "Types of Learning/Learning for kids.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
+    "Types of Learning/Game-Based Learning.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
+    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/VRMath.md",
+    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/NeoTrieVR.md"
   ]
 }
