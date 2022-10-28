@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Index.md",
+=======
+                "file": "Educational technology.md",
+>>>>>>> ec7febaebb9ff96c19e210fa170901fb3b91e656
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Index.md",
+=======
+                "file": "Educational technology.md",
+>>>>>>> ec7febaebb9ff96c19e210fa170901fb3b91e656
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Index.md",
+=======
+                "file": "Educational technology.md",
+>>>>>>> ec7febaebb9ff96c19e210fa170901fb3b91e656
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Index.md"
+=======
+                "file": "Educational technology.md"
+>>>>>>> ec7febaebb9ff96c19e210fa170901fb3b91e656
               }
             }
           }
@@ -140,6 +156,7 @@
   "lastOpenFiles": [
     "Educational technology.md",
     "Index.md",
+<<<<<<< HEAD
     "Learning.md",
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/NeoTrieVR.md",
@@ -148,5 +165,16 @@
     "Types of Learning/Learning for kids.md",
     "Types of Learning/Learning theory.md",
     "Types of Learning/Types of Learning.md"
+=======
+    "Educational technology.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md",
+    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
+    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/VRMath.md",
+    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/NeoTrieVR.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/MathOMatic Blocks.md"
+>>>>>>> ec7febaebb9ff96c19e210fa170901fb3b91e656
   ]
 }
