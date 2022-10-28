@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md"
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "ed6367f13ded4b5c",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/VRMath.md",
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/NeoTrieVR.md",
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
     "Index.md",
     "Types of Learning/Explain Everything Learning.md",
     "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
-    "Types of Learning/Types of Learning.md"
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md"
   ]
 }
