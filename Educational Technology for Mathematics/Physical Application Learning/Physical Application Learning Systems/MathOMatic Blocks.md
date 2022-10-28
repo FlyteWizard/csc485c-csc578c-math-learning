@@ -8,5 +8,7 @@ Figure 1.  A theoretical display of MathOMatic. [^1]
 ![[Sample Feedback MathOMatic.png]]
 Figure 2.  Sample Feedback from an incorrect response in MathOMatic. [^1]
 
-[^1]  A. Karshmer, “MathOMatic Blocks: An Automated, Tactile, Interactive Method of Teaching Mathematics to Blind Students in the K-12 Environment,” _Business Analytics and Information Systems._, p. 16, 2007.
+[^1]  A. Karshmer, “MathOMatic Blocks: An Automated, Tactile, Interactive Method of Teaching Mathematics to Blind Students in the K-12 Environment,” _Business Analytics and Information Systems._, p. 16, 2007. [Online]. Available: https://repository.usfca.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1010&context=at
+
+
 
