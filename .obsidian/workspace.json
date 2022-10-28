@@ -13,13 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning.md",
+                "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb764bc0e1d2ec4d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/MathOMatic/MathOMatic Display.png"
+              }
+            }
+          },
+          {
+            "id": "728f9467346a9a9d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +104,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -136,17 +151,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a6c5f1d6e60c7f8e",
+  "active": "882623f1185657ad",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
+    "Assets/MathOMatic/MathOMatic Display.png",
+    "Assets/MathOMatic/Sample Feedback MathOMatic.png",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/MathOMatic Blocks.md",
     "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md",
-    "Educational Technology for Mathematics/Mobile and Web-Based Learning/Computer and Mobile Based Learning.md",
+    "Educational Technology for Mathematics/Mobile and Web-Based Learning/Mobile Systems/Ancient Analog Calculator.md",
+    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
     "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
-    "Learning.md",
-    "Index.md",
-    "Educational technology.md",
-    "Types of Learning/Types of Learning.md"
+    "Educational Technology for Mathematics/Web Based Learning.md",
+    "Educational Technology for Mathematics/Artificial Intelligence.md",
+    "Educational Technology for Mathematics/Mobile and Web-Based Learning/Computer and Mobile Based Learning.md"
   ]
 }
