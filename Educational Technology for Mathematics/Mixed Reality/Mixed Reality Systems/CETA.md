@@ -1,4 +1,8 @@
-# Using the MR system CETA to Ecnourage Mathematics Learning
+---
+tags: [CETA,mixed-reality,elementary-school,game-based]
+---
+
+# Using the MR system CETA to Encourage Mathematics Learning
 
 CETA is a [[Mixed Reality]] (MR) system designed for an educational environment such as a school or daycare [^1].  The system is composed of an android tablet, a mirror, and set of tangible wooden blocks that the learners can manipulate to complete tasks [^1].  The system uses the tablet to display exercises while the mirror reflects the image of the blocks back at the tablet to act as an input for activity interaction [^1].  The entire CETA system is displayed in Figure 1.  In order to complete an activity, students manipulate the blocks according to the exercise instructions [^1].  Like many learning-based systems, CETA involves gamifying algebra ([[Game-Based Learning]]) to increase engagement with the topic as shown in Figure 2.  Similarly to the system created by Salman et al., [[Mixed Reality with Tangibles]], engagement is further increased with a fantasy narrator; however, this time it’s a robot named Bruno [^1, 2].
 

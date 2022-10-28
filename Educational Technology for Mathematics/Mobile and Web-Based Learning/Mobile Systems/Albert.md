@@ -1,3 +1,7 @@
+---
+tags: [Albert,mobile,elementary-school,high-school,game-based]
+---
+
 # Accessible Mathematics with Albert
 
 Albert is a mobile application that creates a fun and engaging environment for children ages 3 to 9 as well as teenagers from ages 10 to 16 to practice various mathematical problems whenever is most convenient [^1, 2].  Just like in [[Game-Based Learning]], the program for the younger children is dedicated to making math as engaging as possible to increase engagement and the intrinsic motivation to pursue mathematics (video link: [https://vimeo.com/565492893](https://vimeo.com/565492893)) [^1].  For older learners, the curriculum of the application has been synchronized with the British education system so that learners can complete activities and learn mathematics at their own pace [^2].  Completing the exercises at their own pace also creates an environment in which students are motivated to learn more [^3].  This system augments learning math by gamifying the concepts and increasing motivation to complete otherwise mentally exhaustive tasks.
