@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "921e4ee0c38aac83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Photomath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8838592cbc31cfa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Mathway.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f25d61c5015c3f24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8d4e447a4d6f1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cf2061329a03f07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md"
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md"
               }
             }
           }
@@ -137,17 +198,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "882623f1185657ad",
+  "active": "0cf2061329a03f07",
   "lastOpenFiles": [
+    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Mathway.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Photomath.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/YouTube.md",
     "Assets/Salman et al., MR.png",
     "Types of Learning/University.md",
-    "Types of Learning/Technological Pedagogical Content Knowledge.md",
-    "Types of Learning/Learning.md",
-    "Types of Learning/High School.md",
-    "Types of Learning/Game-Based Learning.md",
-    "Types of Learning/Elementary School.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md"
+    "Types of Learning/Technological Pedagogical Content Knowledge.md"
   ]
 }
