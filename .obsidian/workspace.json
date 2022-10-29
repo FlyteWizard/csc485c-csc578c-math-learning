@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Educational Technology.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Educational Technology.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Educational Technology.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Educational Technology.md"
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "428c5a2a8791336e",
   "lastOpenFiles": [
-    "Types of Learning/Learning.md",
-    "Educational Technology for Mathematics/Educational Technology.md",
-    "Index.md",
-    "Types of Learning/learning theory.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Educational technology.md"
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md"
   ]
 }

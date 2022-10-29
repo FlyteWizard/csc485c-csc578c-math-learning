@@ -1,3 +1,9 @@
+---
+tags: [mathematical-learning,learning,learning-theory]
+---
+
+# Learning Definition
+
 Learning is the process of acquiring new understanding, knowledge, behaviours, skills, values, attitudes, and preferences [^1].
 
 # Learning theory
