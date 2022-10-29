@@ -1,5 +1,5 @@
 ---
-tags: [Machine learning, Quora]
+tags: [machine-learning, Quora]
 ---
 
 [[Machine learning]] (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks [^1]. It is seen as a part of [[Artificial Intelligence]].

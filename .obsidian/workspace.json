@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Learning/Learning.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Learning/Learning.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Learning/Learning.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Learning/Learning.md"
+                "file": "Index.md"
               }
             }
           }
@@ -153,14 +153,14 @@
   "active": "60729ef0bcb88a7c",
   "lastOpenFiles": [
     "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Types of Learning/Explain Everything Learning.md",
-    "Types of Learning/Technological Pedagogical Content Knowledge.md",
-    "Index.md",
     "Educational Technology for Mathematics/Educational Technology.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
+    "Index.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+    "Educational Technology for Mathematics/Educational technology.md",
     "Types of Learning/Elementary School.md",
-    "Types of Learning/Game-Based Learning.md",
-    "Types of Learning/High School.md"
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md"
   ]
 }
