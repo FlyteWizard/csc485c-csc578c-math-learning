@@ -18,7 +18,9 @@ As well, (P)IWBs can quickly adapt to students interests. In a study on reasonin
 In Figure 1 a student is using an IWB to correctly match by dragging and dropping elements. 
 
 ![[Interactive Whiteboards Example.png]]
-Figure 1: Matching number with the correct pictures [^5].
+Figure 1: Matching numbers with the correct pictures [^5].
+
+In the study, it is mentioned that [[Technological Pedagogical Content Knowledge|TPACK]] is an important part of learning to teach using technology. Instructors having a solid grasp on the fundamentals of their subject enhances the learning process for students (an important part of adopting new systems).
 
 [^1]: T. Goodson-Epsy, and L. Poling. "Interactive Whiteboards: Preparing Secondary Mathematics Teachers to Avoid Catch-22". (2015). DOI: 10.4018/978-1-4666-6497-5.ch014.
 

@@ -1,4 +1,5 @@
 ---
+alias: [TPACK]
 tags: [TPACK,technology,learning,teaching]
 ---
 
