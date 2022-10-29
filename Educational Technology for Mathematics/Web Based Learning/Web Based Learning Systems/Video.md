@@ -2,7 +2,8 @@
 tags: [video,visual-learning,web-based,youtube]
 ---
 
-# Self-Paced E-Learning
+# Self-Paced E-Learning with Video
+
 
 
 
