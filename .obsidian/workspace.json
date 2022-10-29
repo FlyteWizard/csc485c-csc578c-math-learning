@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0fea06199dc0947d",
+        "id": "e3bff43761d68315",
         "type": "tabs",
         "children": [
           {
-            "id": "ed6367f13ded4b5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Types of Learning/University.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60729ef0bcb88a7c",
+            "id": "428c5a2a8791336e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -150,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "60729ef0bcb88a7c",
+  "active": "428c5a2a8791336e",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
+    "Types of Learning/Learning.md",
+    "Types of Learning/learning theory.md",
     "Educational Technology for Mathematics/Educational Technology.md",
     "Index.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Educational technology.md",
-    "Types of Learning/Elementary School.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md"
+    "Educational Technology for Mathematics/Educational technology.md"
   ]
 }
