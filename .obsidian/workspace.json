@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Educational Technology for Mathematics/Educational Technology.md"
               }
             }
           }
@@ -140,9 +140,9 @@
   "active": "428c5a2a8791336e",
   "lastOpenFiles": [
     "Types of Learning/Learning.md",
-    "Types of Learning/learning theory.md",
     "Educational Technology for Mathematics/Educational Technology.md",
     "Index.md",
+    "Types of Learning/learning theory.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
