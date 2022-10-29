@@ -1,3 +1,3 @@
 # Types of Learning
 
-Learning might be different for age group such as [[Learning for kids]] might be faster than [[Learning for adults]] and [[Learning for teenagers]] might very in between kids and adults.
+Learning might be different for age group such as [[Elementary School]] might be faster than [[University]] and [[Learning for teenagers]] might very in between kids and adults.
