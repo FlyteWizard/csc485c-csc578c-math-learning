@@ -4,8 +4,7 @@ tags: [video,visual-learning,web-based,youtube]
 
 # Self-Paced E-Learning with Video
 
-
-
+[[Web Based Learning]] has different student base like graduate students mostly search for related topic video in web and learn from different platforms like video websites (e.g., [[YouTube]]) blogs and many more.
 
 
 **

@@ -12,7 +12,7 @@
 > > 5. [[Technological Pedagogical Content Knowledge]]
 > > 6. [[University]]
 
-> [!abstract] 
+> [!Abstract] 
 > > # [[Educational Technology]]
 > Educational technology is the combined use of computer hardware, software, and educational theory and practice to facilitate [[Learning]]. 
 > 
