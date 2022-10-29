@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "93b13f6e44b21b04",
+    "id": "b69d68c4f96a154c",
     "type": "split",
     "children": [
       {
-        "id": "69caa66afae950b7",
+        "id": "0fea06199dc0947d",
         "type": "tabs",
         "children": [
           {
-            "id": "c0a54778904c6aa7",
+            "id": "ed6367f13ded4b5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
+                "file": "Types of Learning/University.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60729ef0bcb88a7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Types of Learning/Learning.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "81663940ac9996e7",
+    "id": "6a71590cf4966798",
     "type": "split",
     "children": [
       {
-        "id": "4584d6a093c30201",
+        "id": "88192324a6dfab59",
         "type": "tabs",
         "children": [
           {
-            "id": "1fe760f2b8673431",
+            "id": "882623f1185657ad",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "34fce077d2fccda7",
+            "id": "42ad8d26b3975482",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "9dfa2871da7b17eb",
+            "id": "4bbd34f71efdf2a8",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,76 +85,82 @@
     "width": 300
   },
   "right": {
-    "id": "dfd02e879868a782",
+    "id": "d8c5553fd343a541",
     "type": "split",
     "children": [
       {
-        "id": "d0cf5a505e593902",
+        "id": "c545a61f37005c01",
         "type": "tabs",
         "children": [
           {
-            "id": "018845656a4a9d7c",
+            "id": "7e6681c19f800c49",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
+                "file": "Types of Learning/Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "f390fda46d307d0e",
+            "id": "aff408152e4b2958",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
+                "file": "Types of Learning/Learning.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "ff981326ab07607a",
+            "id": "02127564b35762f9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
           {
-            "id": "36e19b58469a2e5c",
+            "id": "79e7ad373dcea441",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md"
+                "file": "Types of Learning/Learning.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "c0a54778904c6aa7",
+  "active": "60729ef0bcb88a7c",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md"
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+    "Types of Learning/Explain Everything Learning.md",
+    "Types of Learning/Technological Pedagogical Content Knowledge.md",
+    "Index.md",
+    "Educational Technology for Mathematics/Educational Technology.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
+    "Types of Learning/Elementary School.md",
+    "Types of Learning/Game-Based Learning.md",
+    "Types of Learning/High School.md"
   ]
 }
