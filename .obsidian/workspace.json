@@ -1,80 +1,39 @@
 {
   "main": {
-    "id": "b69d68c4f96a154c",
+    "id": "93b13f6e44b21b04",
     "type": "split",
     "children": [
       {
-        "id": "0fea06199dc0947d",
+        "id": "69caa66afae950b7",
         "type": "tabs",
         "children": [
           {
-            "id": "ed6367f13ded4b5c",
+            "id": "c0a54778904c6aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems and Sites/Quora.md",
-=======
-                "file": "Types of Learning/University.md",
->>>>>>> 0b4a4cfb555be2ad41f26bc75144cd7a6ecc4b7f
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "5bb5449e64bd8f4a",
-=======
-            "id": "60729ef0bcb88a7c",
->>>>>>> 0b4a4cfb555be2ad41f26bc75144cd7a6ecc4b7f
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems and Sites/KhanAcademy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9883e160d58e6579",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems and Sites/KhanAcademy.md",
-=======
-                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/VRMath.md",
->>>>>>> 0b4a4cfb555be2ad41f26bc75144cd7a6ecc4b7f
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-<<<<<<< HEAD
-        "currentTab": 2
-=======
-        "currentTab": 1
->>>>>>> 0b4a4cfb555be2ad41f26bc75144cd7a6ecc4b7f
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6a71590cf4966798",
+    "id": "81663940ac9996e7",
     "type": "split",
     "children": [
       {
-        "id": "88192324a6dfab59",
+        "id": "4584d6a093c30201",
         "type": "tabs",
         "children": [
           {
-            "id": "882623f1185657ad",
+            "id": "1fe760f2b8673431",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -84,7 +43,7 @@
             }
           },
           {
-            "id": "42ad8d26b3975482",
+            "id": "34fce077d2fccda7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -99,7 +58,7 @@
             }
           },
           {
-            "id": "4bbd34f71efdf2a8",
+            "id": "9dfa2871da7b17eb",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -113,109 +72,76 @@
     "width": 300
   },
   "right": {
-    "id": "d8c5553fd343a541",
+    "id": "dfd02e879868a782",
     "type": "split",
     "children": [
       {
-        "id": "c545a61f37005c01",
+        "id": "d0cf5a505e593902",
         "type": "tabs",
         "children": [
           {
-            "id": "7e6681c19f800c49",
+            "id": "018845656a4a9d7c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems and Sites/KhanAcademy.md",
-=======
-                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/VRMath.md",
->>>>>>> 0b4a4cfb555be2ad41f26bc75144cd7a6ecc4b7f
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aff408152e4b2958",
+            "id": "f390fda46d307d0e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems and Sites/KhanAcademy.md",
-=======
-                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/VRMath.md",
->>>>>>> 0b4a4cfb555be2ad41f26bc75144cd7a6ecc4b7f
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "02127564b35762f9",
+            "id": "ff981326ab07607a",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "79e7ad373dcea441",
+            "id": "36e19b58469a2e5c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems and Sites/KhanAcademy.md"
-=======
-                "file": "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/VRMath.md"
->>>>>>> 0b4a4cfb555be2ad41f26bc75144cd7a6ecc4b7f
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "9883e160d58e6579",
+  "active": "c0a54778904c6aa7",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems and Sites/Quora.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems and Sites/KhanAcademy.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems and Sites/Untitled.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
-    "Pasted image 20221028215424.png.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/VRMath.md"
-=======
-  "active": "60729ef0bcb88a7c",
-  "lastOpenFiles": [
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/NeoTrieVR.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/MathOMatic Blocks.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md"
->>>>>>> 0b4a4cfb555be2ad41f26bc75144cd7a6ecc4b7f
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md"
   ]
 }
