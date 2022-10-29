@@ -1,5 +1,5 @@
 ---
-tags: [video,visual-learning,web-based,youtube]
+tags: [video,visual-learning,web-based,youtube,khan-academy,support,resources]
 ---
 
 # Self-Paced E-Learning with Video
