@@ -1,4 +1,5 @@
 ---
+alias: [Abacus]
 tags: [calculator,mobile,elementary-school,application]
 ---
 
