@@ -1,12 +1,11 @@
 ---
 tags: [video,visual-learning,web-based,youtube,khan-academy]
 ---
+# Quora as Mathematical Learning Support
 
-# Quora
+Quora is a place to gain and share knowledge. It's a [[Web Based Learning]] platform to ask questions and connect with people who contribute unique insights and quality answers. 
 
-[[Quora]] is Quora is a place to gain and share knowledge. It's a [[Web Based Learning]] platform to ask questions and connect with people who contribute unique insights and quality answers. 
-
-If someone is asking "How should I learn mathematics?" he might get some web result link of [[Quora]] where people from different parts of the world respond. 
+If someone is asking "How should I learn mathematics?" they might get a web result from Quora, where people from different parts of the world respond. 
 
 In response to the question "How should I learn mathematics?"
 

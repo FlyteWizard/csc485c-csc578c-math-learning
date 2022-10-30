@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ee89b9394f14fb29",
+        "id": "6894bfe99c647148",
         "type": "tabs",
         "children": [
           {
-            "id": "731690678786a9d4",
+            "id": "9bd2eb19407b0fe0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md"
+                "file": "Educational Technology for Mathematics/Educational Technology.md"
               }
             }
           }
@@ -136,18 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "731690678786a9d4",
+  "active": "9bd2eb19407b0fe0",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools/Augmented Reality Tools.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md"
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Desmos.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Cymath.com.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md"
   ]
 }
