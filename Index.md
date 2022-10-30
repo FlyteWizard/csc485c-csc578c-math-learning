@@ -24,6 +24,7 @@
 > 	1.4 [[Photomath]]
 > 2. [[Audio and Braille]]
 > 	2.1 [[REMathEx]] 
+> 	2.2 [[Nemeth Code]]
 > 3.  [[Augmented Reality]]
 > 	3.1 [[ARCube]]
 > 	3.2 [[Construct3D]]
