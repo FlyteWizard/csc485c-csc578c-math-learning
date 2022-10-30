@@ -4,7 +4,7 @@
 
 
 
-![[Pasted image 20221029170649.png]]
+![[Mathway System.png]]
 
 
 

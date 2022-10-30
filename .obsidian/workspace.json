@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md"
+                "file": "Index.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f9393bd66dd9e244",
+  "active": "882623f1185657ad",
   "lastOpenFiles": [
+    "Assets/Equation Solver Example.png",
+    "Assets/AI/MathScanner Example.png",
+    "Assets/Web/cymath System.png",
+    "Assets/Web/Mathway System.png",
     "Assets/Web/Wolfram Alpha System.png",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Cymath.com.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md"
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md"
   ]
 }

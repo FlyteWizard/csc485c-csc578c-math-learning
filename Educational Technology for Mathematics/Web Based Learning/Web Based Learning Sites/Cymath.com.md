@@ -4,7 +4,7 @@
 
 [[Cymath.com]] is a [[Web Based Learning]] platform, they have [[Cymath]] android and iOS app for [[Mobile-Based Learning]] platforms as well. 
 
-![[Pasted image 20221029170015.png]]
+![[cymath System.png]]
 
 [^1] https://www.cymath.com/about 
 
