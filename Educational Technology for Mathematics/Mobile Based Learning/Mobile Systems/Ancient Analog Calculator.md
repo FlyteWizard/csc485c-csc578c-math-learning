@@ -11,7 +11,7 @@ Figure 1: Start screen of a simulator of a Japanese Abacus.
 
 Similarly to [[Albert]], the purpose of creating a digital application is for ease of [[Learning]]. Students can use the Japanese Abacus simulator at anytime and they do not need to rely on having access to the physical device.
 
-The system augments math [[Learning]] by enhancing mental calculations and improving speed [^2]. Students can become efficient in performing basic arithmetic and lowering mental load.
+The system augments math [[Learning]] by enhancing mental calculations and improving speed [^2]. Students can become efficient in performing basic arithmetic and lowering mental load by using this [[Mobile-Based Learning]] system.
 
 [^1]: K. Saito, Y. Makita, V. Quang, and H. Sasaki, "Development of a Simulator of Abacus: Ancient Analog Calculator on a Mobile Phone as a Teaching Material", \[Online\]. Available: https://link-springer-com.ezproxy.library.uvic.ca/content/pdf/10.1007/978-3-642-02583-9_23. \[Accessed: 27-Oct-2022\].
 
