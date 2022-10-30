@@ -6,6 +6,7 @@ tags: [ARCube,augmented-reality,grade-school]
 
 The ARCube is an accessory to [[ClassVR]] [^1].  This is a cutout and printable piece of paper that is folded into a cube, which can then be scanned by a ClassVR VR headset as seen in Figure 1[^2].  With this, learners can now, not only view and manipulate virtual objects, but also hold an object out in the world (Figure 2).  In pairing with the ClassVR headset, this combination creates an [[Augmented Reality]] (AR) environment.  Learners can create a more concrete example of mathematical models which further enables an increase in motivation and engagement.  Having concrete examples like this can help learners further visualize mathematical concepts.
 
+![[ArcCube Printable.png]]
 Figure 1.  An image of the printable ArcCube [^2].
 
 ![[ArcCube Display.png]]
