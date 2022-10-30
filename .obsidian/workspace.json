@@ -4,60 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1a75c9c74fea050f",
-        "type": "split",
+        "id": "6894bfe99c647148",
+        "type": "tabs",
         "children": [
           {
-            "id": "ee89b9394f14fb29",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "400d971704108f6c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "731690678786a9d4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "9bd2eb19407b0fe0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "59681ee3976a4c6c",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c217c634603c4d58",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile-Based Learning.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              }
-            ]
+            }
           }
-        ],
-        "direction": "horizontal"
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#educational-technology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -163,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md"
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md"
               }
             }
           }
@@ -174,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7e6681c19f800c49",
+  "active": "9bd2eb19407b0fe0",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
     "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile-Based Learning.md",
-    "Educational Technology for Mathematics/Educational Technology.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
     "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Types of Learning/University.md",
-    "Types of Learning/Technological Pedagogical Content Knowledge.md"
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools/Augmented Reality Tools.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md"
   ]
 }
