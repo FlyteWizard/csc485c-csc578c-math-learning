@@ -1,5 +1,5 @@
 ---
-tags: [augmented-reality,tools]
+tags: [augmented-reality,tools,tuoi]
 ---
 
 # Tools For Creating Augmented Reality Applications
@@ -18,6 +18,8 @@ There are several tools used to create [[augmented reality]] applications. Tools
 	- A library that handles camera captioning and overlay for point of interest (POI).
  - Metaio SDK: https://github.com/kolipass/MetaioSdk
 	- A software development kit (SDK) for creating offline augmented reality application (Unity Plugin).
+- TUOI: https://www.tuio.org
+	- An application programming interface (API) for tangible multi touch surfaces.
 - Unity: https://unity.com
 	- A platform for real-time content creation.
 - Vuforia SDK: https://docs.unity3d.com/2017.2/Documentation/Manual/vuforia-sdk-overview.html
