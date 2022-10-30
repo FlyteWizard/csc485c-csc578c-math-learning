@@ -4,7 +4,7 @@ tags: [video,visual-learning,web-based,youtube,khan-academy]
 
 # Quora
 
-[[Quora]] is Quora is a place to gain and share knowledge. It's a platform to ask questions and connect with people who contribute unique insights and quality answers. 
+[[Quora]] is Quora is a place to gain and share knowledge. It's a [[Web Based Learning]] platform to ask questions and connect with people who contribute unique insights and quality answers. 
 
 If someone is asking "How should I learn mathematics?" he might get some web result link of [[Quora]] where people from different parts of the world respond. 
 
