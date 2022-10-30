@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ee89b9394f14fb29",
+        "id": "153b69edfc3131c5",
         "type": "tabs",
         "children": [
           {
-            "id": "731690678786a9d4",
+            "id": "2a66013109f33223",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "93b13d69ec67e2e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#educational-technology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
+                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
+                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md"
+                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md"
               }
             }
           }
@@ -136,18 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "731690678786a9d4",
+  "active": "93b13d69ec67e2e4",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
     "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
+    "Index.md",
     "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile-Based Learning.md",
+    "Educational Technology for Mathematics/Educational Technology.md",
     "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools/Augmented Reality Tools.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md"
+    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md"
   ]
 }
