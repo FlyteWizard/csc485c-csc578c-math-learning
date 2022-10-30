@@ -1,5 +1,5 @@
 ---
-tags: [wolfram-alpha,mathematics,calculator,ai,self-paced,support,resource]
+tags: [wolfram-alpha,mathematics,calculator,artificial-intelligence,self-paced,support,resource]
 ---
 
 # Wolfram Alpha - Computational Intelligence

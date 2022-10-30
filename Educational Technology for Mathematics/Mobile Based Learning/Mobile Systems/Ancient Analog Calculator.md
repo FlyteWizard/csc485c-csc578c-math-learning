@@ -1,5 +1,5 @@
 ---
-tags: [calculator,mobile,elementary-school]
+tags: [calculator,mobile,elementary-school,application]
 ---
 
 # Arithmetic Calculations with a Digital Abacus
