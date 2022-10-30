@@ -1,7 +1,10 @@
-# Math Scanner
+---
+tags: [math-scanner,computer-vision,artificial-intelligence,mathematical-learning]
+---
 
+# Math Scanner to Solve Equations
 
-[[Math Scanner]] is a [[Machine Learning]] and [[Artificial Intelligence]] based math solving platform which use computer vision approach to solve math from photo.
+[[Math Scanner]] is a [[Machine Learning]] and [[Artificial Intelligence]] based math solving platform which uses a computer vision approach to solve math from photo.
 
 [[Math Scanner]] has a user interface that makes it simple while focusing on a problem, which you can enter by taking a picture, importing one, or manually entering it through the provided keyboard.
 
