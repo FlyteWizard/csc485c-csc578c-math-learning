@@ -46,6 +46,7 @@
 > 	7.2 [[KhanAcademy]]
 > 	7.3 [[Quora]]
 > 	7.4 [[Mathway.com]]
+> 	7.5 [[Wolfram Alpha]]
 
 > [!note] 
 > > # Assets
