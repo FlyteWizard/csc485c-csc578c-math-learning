@@ -1,9 +1,7 @@
 ---
 tags: [artificial-intelligence,machine-learning,computer-vision,mathematical-learning, Cymath]
 ---
-
-# Cymath
-
+# Cymath For Math Assistance
 
 [[Cymath]] is a mobile application based math problem solving and learning system. They have the [[Cymath.com]] web version as well. 
 
