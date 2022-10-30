@@ -42,11 +42,12 @@
 > 	6.2 [[NeoTrieVR]]
 > 	6.2 [[VRMath]]
 > 7. [[Web Based Learning]]
-> 	1.1 [[Cymath.com]] 
-> 	7.2 [[KhanAcademy]]
-> 	7.3 [[Quora]]
-> 	7.4 [[Mathway.com]]
-> 	7.5 [[Wolfram Alpha]]
+> 	7.1 [[Desmos]]
+> 	7.2 [[Cymath.com]] 
+> 	7.3 [[KhanAcademy]]
+> 	7.4 [[Quora]]
+> 	7.5 [[Mathway.com]]
+> 	7.6 [[Wolfram Alpha]]
 
 > [!note] 
 > > # Assets
