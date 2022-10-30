@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ca0a9db4bce8fad6",
+        "id": "6894bfe99c647148",
         "type": "tabs",
         "children": [
           {
-            "id": "c1556f09f1fdfd5f",
+            "id": "9bd2eb19407b0fe0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Types of Learning/Elementary School.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Types of Learning/Elementary School.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Types of Learning/Elementary School.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,28 +124,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Types of Learning/Elementary School.md"
+              }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c1556f09f1fdfd5f",
+  "active": "7e6681c19f800c49",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
-    "Educational Technology for Mathematics/Educational Technology.md",
+    "Types of Learning/Game-Based Learning.md",
+    "Types of Learning/High School.md",
+    "Types of Learning/Learning.md",
     "Types of Learning/Technological Pedagogical Content Knowledge.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Desmos.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
+    "Types of Learning/University.md",
+    "Types of Learning/Elementary School.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
     "Index.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Learning Math Using Gesture.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/MathOMatic Blocks.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md"
+    "Assets/Equation Solver Example.png"
   ]
 }
