@@ -1,5 +1,5 @@
 ---
-tags: [mathematical-learning,university,support,resources]
+tags: [mathematical-learning,university,support,resource]
 ---
 
 # Learning Math for Students in University

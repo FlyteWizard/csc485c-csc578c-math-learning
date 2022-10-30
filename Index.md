@@ -37,6 +37,7 @@
 > 	5.2 [[Learning Math Using Gesture]]
 > 	5.3 [[MathOMatic Blocks]]
 > 	5.4 [[Tabletop]]
+> 	5.5 [[Clickers]]
 > 6. [[Virtual Reality]]
 > 	6.1 [[ClassVR]]
 > 	6.2 [[NeoTrieVR]]
