@@ -18,6 +18,10 @@
 > 
 > The Educational Technology folder holds all of the augmentation systems designed to aid mathematical learning.  The fundamental organization of this vault is between parent and child folders.  Within the Educational Technology folder, there are various subsections that hold subtypes of systems related to the topic.  Within each subtype is a note that describes the type of technology and how it can be used to augment mathematical learning.  Finally, inside the subtype folder is a nested folder containing all of the relevant systems and technologies related to the topic of augmenting mathematical learning.  The following list displays the overview of the technology section of this vault.
 > 1. [[Artificial Intelligence]]
+> 	1.1 [[Cymath]]
+> 	1.2 [[Microsoft Math]]
+> 	1.3 [[Math Scanner]]
+> 	1.4 [[Photomath]]
 > 2.  [[Augmented Reality]]
 > 	2.1 [[ARCube]]
 > 	2.2 [[Construct3D]]
@@ -38,8 +42,10 @@
 > 	6.2 [[NeoTrieVR]]
 > 	6.2 [[VRMath]]
 > 7. [[Web Based Learning]]
-> 	7.1 [[KhanAcademy]]
-> 	7.2 [[Quora]]
+> 	1.1 [[Cymath.com]] 
+> 	7.2 [[KhanAcademy]]
+> 	7.3 [[Quora]]
+> 	7.4 [[Mathway.com]]
 
 > [!note] 
 > > # Assets

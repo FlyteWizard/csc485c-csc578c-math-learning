@@ -4,18 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3b13b2749f8b9b52",
+        "id": "e3bff43761d68315",
         "type": "tabs",
         "children": [
           {
-            "id": "7eb196aad8bd531f",
+            "id": "35046c0deda5f74d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a44dc408d6ef8a5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "learntech",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "d8c5553fd343a541",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index.md"
+              }
             }
           }
         ],
@@ -129,17 +150,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7eb196aad8bd531f",
+  "active": "2a44dc408d6ef8a5",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
-    "Index.md",
-    "Assets/Equation Solver Example.png",
-    "Assets/AI/MathScanner Example.png",
-    "Assets/Web/cymath System.png",
-    "Assets/Web/Mathway System.png",
-    "Assets/Web/Wolfram Alpha System.png",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md"
+    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Photomath.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
+    "Types of Learning/Learning.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/YouTube.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md"
   ]
 }
