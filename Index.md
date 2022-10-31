@@ -3,7 +3,7 @@
 ## Table of contents:
 
 > [!abstract] 
-> > # Types of Learning
+> > # Types of [[Learning]]
 > > There are various ways of learning for different demographics. This subsection of the vault explores the way that mathematical learning is executed based on various topics including age demographics and discussions of learning theory. These sections will also discuss how cognitive computer augmentation can benefit certain demographics. The list below displays the topics discussed:
 > > 1. [[Elementary School]]
 > > 2. [[High School]]
