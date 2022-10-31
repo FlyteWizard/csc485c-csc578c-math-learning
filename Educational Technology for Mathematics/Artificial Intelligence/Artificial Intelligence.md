@@ -11,4 +11,4 @@ According to Hwang & Tu, using artificial intelligence within mathematical educa
 [^1]: M. Z. b. Mohamed , R. Hidayat , N. N. b. Suhaizi, N. b. M. Sabri , M. K. H. b. Mahmud, and S. N. b. Baharuddin , "Artificial intelligence in mathematics education: A systematic literature review," _International Electronic Journal of Mathematics Education_, vol. 17, no. 3, pp. 1–11, May 2022.
 [^2]: "Mindstorms EV3 downloads – Lego education," _LEGO® Education_. \[Online\]. Available: https://education.lego.com/en-us/downloads/mindstorms-ev3/software#downloads. \[Accessed: 28-Oct-2022\].
 [^3]: G.-J. Hwang and Y.-F. Tu, "Roles and research trends of Artificial Intelligence in mathematics education: A bibliometric mapping analysis and systematic review," _Mathematics_, vol. 9, no. 6, p. 584, 2021.
-[^4]: O. Knill, “Sofia Math Chat Robot,” _Sofia AI Project_. \[Online\]. Available: https://people.math.harvard.edu/~knill/sofia/. \[Accessed: 30-Oct-2022\].
+[^4]: O. Knill, "Sofia Math Chat Robot," _Sofia AI Project_. \[Online\]. Available: https://people.math.harvard.edu/~knill/sofia/. \[Accessed: 30-Oct-2022\].
