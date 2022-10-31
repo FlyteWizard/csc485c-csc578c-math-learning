@@ -21,7 +21,7 @@ Educational videos are often made with a tablet and a computer program to write 
 According to Dr. Trefor Bazett [^8] videos should be no more than 3 minutes long. However, it is not uncommon to have 20 minute videos in higher levelled mathematics. Bazett also mentions that the benefits of videos are lowered extrinsic load and boosted germane load for learners. 
 
 [^1]: Neso Academy. [Online]. Accessed: Oct. 29, 2022. Available: https://www.youtube.com/c/nesoacademy/.
-[^2]: Neso Academy. "Introduction to Discrete Mathematics". [Online]. Accessed: Oct. 29, 2022. Available: https://www.youtube.com/watch?v=p2b2Vb-cYCs.
+[^2]: Neso Academy. ‘Introduction to Discrete Mathematics'. [Online]. Accessed: Oct. 29, 2022. Available: https://www.youtube.com/watch?v=p2b2Vb-cYCs.
 [^3]: Khan Academy.[Online]. Accessed: Oct. 29, 2022. Available: https://www.youtube.com/user/khanacademy/.
 [^4]: Numberphile. [Online]. Accessed: Oct. 29, 2022. Available: https://www.youtube.com/user/numberphile.
 [^5]: Mathademics. [Online]. Accessed: Oct. 29, 2022. Available: https://www.youtube.com/user/Mathademics.
