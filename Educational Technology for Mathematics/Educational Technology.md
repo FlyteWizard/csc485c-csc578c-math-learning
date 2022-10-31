@@ -18,7 +18,6 @@ With all of this information in mind, it is clear that educational Technology is
 ![[Digital technology for dynamic mathematics.png]]
 Figure 1: Digital technology for dynamic mathematics [^4] 
 
-
 [^1]: R. Robinson, M. Molenda, and L. Rezabek, “Association for Educational Communications and Technology,” in _Facilitating Learning_, Association for Educational Communications and Technology, 2015, pp. 16–48.
 [^2]: N. Mastellos, T. Tran, K. Dharmayat, E. Cecil, H.-Y. Lee, C. C. Wong, W. Mkandawire, E. Ngalande, J. T.-S. Wu, V. Hardy, B. G. Chirambo, and J. M. O’Donoghue, “Training Community Healthcare Workers on the use of information and communication technologies: A randomised controlled trial of traditional versus blended learning in Malawi, Africa,” _BMC Medical Education_, vol. 18, no. 1, 2018.
 [^3]:“Educational Technology,” _Wikipedia_, 25-Oct-2022. [Online]. Available: https://en.wikipedia.org/wiki/Educational_technology. [Accessed: 30-Oct-2022].
