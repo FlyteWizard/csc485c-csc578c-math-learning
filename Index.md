@@ -51,7 +51,8 @@
 > 	8.3 [[Mathway.com]]
 > 	8.4 [[Quora]]
 > 	8.5 [[Wolfram Alpha]]
-> 	8.6 [[Video]]
+> 	8.6 [[Graphic Organizers]]
+> 	8.7 [[Video]]
 
 > [!note] 
 > > # Assets

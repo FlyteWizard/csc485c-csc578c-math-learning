@@ -23,8 +23,12 @@
             "id": "fc19881804035582",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Index.md"
+              }
             }
           }
         ],
@@ -144,7 +152,8 @@
   },
   "active": "882623f1185657ad",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Graphic Organizers.md",
+    "Assets/Graphic Organizer.png",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Graphic Organizers.md",
     "Types of Learning/Game-Based Learning.md",
     "Types of Learning/Elementary School.md",
     "Index.md",
@@ -152,7 +161,6 @@
     "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md"
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md"
   ]
 }
