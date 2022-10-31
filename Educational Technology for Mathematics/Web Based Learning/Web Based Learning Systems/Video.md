@@ -6,7 +6,7 @@ tags: [video,visual-learning,web-based,youtube,khan-academy,support,resource,sel
 
 Educational videos are often used as supplement material to explain complex concepts. Some [[university]] professors create entire lecture videos or use a flipped classroom approach and deliver short videos of content and then do problem-solving examples in lecture.
 
-YouTube, a video hosting website, is a popular method of distribution for educators. Neso Academy [^1], for example, has a mission of providing free and subsidized education. "Introduction to Discrete Mathematics" [^2] a video motivating students to learn discrete math has over 700k views with a positive ratio in feedback. usually the purpose of these is to encourage self-directed learning by providing easy access to course material.
+YouTube, a video hosting website, is a popular method of distribution for educators. Neso Academy [^1], for example, has a mission of providing free and subsidized education. "Introduction to Discrete Mathematics" [^2], a video motivating students to learn discrete math, has over 700k views with a positive ratio in feedback. usually the purpose of these is to encourage self-directed learning by providing easy access to course material.
 
 > [!quote] 
 > "Every individual is different and talented, what you need are passion and curiosity" [^1].
