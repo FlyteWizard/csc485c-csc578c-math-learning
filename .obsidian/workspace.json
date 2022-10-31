@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ee003288c6f0ccf",
+        "id": "a15472f7085e6ee9",
         "type": "tabs",
         "children": [
           {
-            "id": "45b9f09b0ed20803",
+            "id": "eb69d7e5880a7a17",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
+                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/NC Tutor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
+                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/NC Tutor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md"
+                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/NC Tutor.md"
               }
             }
           }
@@ -134,15 +134,15 @@
   },
   "active": "882623f1185657ad",
   "lastOpenFiles": [
-    "YouTube.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/NC Tutor.md",
     "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md",
+    "Index.md",
+    "YouTube.md",
     "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Photomath.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
-    "Index.md",
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md"
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md"
   ]
 }
