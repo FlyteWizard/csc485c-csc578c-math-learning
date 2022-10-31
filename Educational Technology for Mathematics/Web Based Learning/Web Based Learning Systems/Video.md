@@ -13,7 +13,10 @@ YouTube is a popular method of distribution. Neso Academy [^1], for example, has
 
 Educational videos often use a tablet with a computer program to write on a digital whiteboard. They can digitally be similar to [[Interactive Whiteboards]] but without the touch interaction. [[KhanAcademy]] [^3] is another example of a successful YouTube channel that promotes learning. A few other channels are: Numberphile [^4], Mathademics [^5], and Dr. Trefor Bazett [^6]. These channels often use problem-based approaches to teach concepts.
 
-"Problem-based video podcasts provide short, web-based, audio-visual explanations of how to solve specific procedural problems in subject areas such as mathematics" [^7]. According to Dr. Trefor Bazett [^8] videos should be no more than 3 minutes long. However, it is not uncommon to have 20 minute videos.
+> [!quote] 
+> "Problem-based video podcasts provide short, web-based, audio-visual explanations of how to solve specific procedural problems in subject areas such as mathematics" [^7].
+
+According to Dr. Trefor Bazett [^8] videos should be no more than 3 minutes long. However, it is not uncommon to have 20 minute videos.
 
 The benefits of videos are lowered extrinsic load and boosted germane load. 
 
