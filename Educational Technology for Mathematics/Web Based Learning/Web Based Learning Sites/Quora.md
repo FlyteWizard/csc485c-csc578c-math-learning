@@ -4,14 +4,10 @@ tags: [video,visual-learning,web-based,youtube,khan-academy]
 
 ## Quora as Mathematical Learning Support
 
-Quora is a place to gain and share knowledge. It's a [[Web Based Learning]] platform to ask questions and connect with people who contribute unique insights and quality answers. [[Quora]] have a dedicated domain: https://mathquestions.quora.com/ for math learners. 
-
-If someone is asking "How should I learn mathematics?" they might get a web result from Quora, where people from different parts of the world respond. It's a good platform to learn and share mathematical knowledges.
-
-In a study, authors examined the students' perceptions of effective mathematics instruction and instruction in general, they used data from social media platforms: Twitter and [[Quora]] [^2] . 
+Quora is a dedicated forum-based [[Web Based Learning]] site that is marketed as a place to share information [^1].  In particular, Quora has specific locations for certain topics like math [^2].  The interface for this math-specific page is shown in Figure 1 [^2].  The benefits of using Quora include diversity.  People with many different backgrounds from many different locations can provide insight to particular problems.  This creates a comfortable community of question-and-solution interactions, which aid in creating an atmosphere where people feel comfortable reaching out for help.  This aids mathematical learning because it allows people from all demographics to ask questions without fear of repercussions and shame.  Without those obstacles, people learn the answers to their questions and can gain more mathematical knowledge.
 
 > [!quote] 
-> In response to the question "How should I learn mathematics?" Matthew Geleta, who is a mathematician replied [^1] :
+> As an example, if someone asks "How should I learn mathematics?" they might get a web result from Quora, where people from different parts of the world respond.  In response to the previous question,  Matthew Geleta, who is a mathematician replied [3] :
 > 
 > > "1.  Learn slowly and patiently. This will end up making you learn a lot faster down the line.
 > > 2.  Work through problems yourself. There is no use is just reading about maths. You really have to solve problems to get anything out of it.
@@ -19,9 +15,10 @@ In a study, authors examined the students' perceptions of effective mathematics 
 > > 4.  Don’t get discouraged. Maths is hard for everyone, and takes years to learn. In fact, you can never finish learning it. Don’t beat yourself up if you find something difficult to understand.
 > > 5.  Work with other people. Working with friends makes the whole experience way more fun. This shouldn’t be a slog. Maths can be intensely social."
 
-![[QuoramathDash.png]]
-Figure 1.  The interface of [[Quora]] Mathematics [^3] 
 
-[^1] Matthew Geleta reply in [[Quora]], https://www.quora.com/How-should-I-learn-mathematics-1?no_redirect=1
-[^2] Zimba, Margaret. "Analysis of students’ perception of good mathematics teachers and teaching using informal conversations from Twitter and Quora." (2019).  
-[^3] https://mathquestions.quora.com/ 
+![[QuoramathDash.png]]
+Figure 1.  The interface of [[Quora]] Mathematics [^2] 
+
+[^1]: “Quora - a place to share knowledge and better understand the world.” [Online]. Available: https://www.quora.com/. [Accessed: 31-Oct-2022].
+[^2]: “Math questions - quora.” [Online]. Available: https://mathquestions.quora.com/. [Accessed: 31-Oct-2022].
+[^3]: Matthew Geleta reply in [[Quora]], https://www.quora.com/How-should-I-learn-mathematics-1?no_redirect=1.  
