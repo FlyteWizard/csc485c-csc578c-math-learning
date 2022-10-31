@@ -14,5 +14,5 @@ TPACK is needed to effectively teach with technology [^2]. In other words, it is
 
 Thus, learning mathematics with systems and technology also depends on the adoption from educators. The systems and technologies need to aid educators in creating meaningful curriculum for students. Brief, educators must accepted that the systems and technologies are effective and beneficial to learning before they can be integrated into the curriculum.
 
-[^1]: [1] M. J. Koehler, _TPACK_. 2012. Accessed: Oct. 28, 2022. [Online]. Available: [http://tpack.org](http://tpack.org)
+[^1]: M. J. Koehler, _TPACK_. 2012. Accessed: Oct. 28, 2022. [Online]. Available: [http://tpack.org](http://tpack.org)
 [^2]: J. Voogt, P. Fisser, N. Pareja Roblin, J. Tondeur, and J. van Braak, ‘Technological pedagogical content knowledge – a review of the literature’, _Journal of Computer Assisted Learning_, vol. 29, no. 2, pp. 109–121, Apr. 2013, doi: [10.1111/j.1365-2729.2012.00487.x](https://doi.org/10.1111/j.1365-2729.2012.00487.x).

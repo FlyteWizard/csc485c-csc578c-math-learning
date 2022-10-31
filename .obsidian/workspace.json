@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Learning/Learning.md",
+                "file": "Types of Learning/High School.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Learning/Learning.md",
+                "file": "Types of Learning/High School.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Learning/Learning.md",
+                "file": "Types of Learning/High School.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Learning/Learning.md"
+                "file": "Types of Learning/High School.md"
               }
             }
           }
@@ -138,11 +138,11 @@
   },
   "active": "c9ff5adbaa042400",
   "lastOpenFiles": [
-    "Types of Learning/Technological Pedagogical Content Knowledge.md",
     "Types of Learning/Learning.md",
-    "Types of Learning/Game-Based Learning.md",
+    "Types of Learning/Technological Pedagogical Content Knowledge.md",
     "Types of Learning/High School.md",
     "Types of Learning/University.md",
+    "Types of Learning/Game-Based Learning.md",
     "Index.md",
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
     "Assets/AI/AI Educational Supports.png",
