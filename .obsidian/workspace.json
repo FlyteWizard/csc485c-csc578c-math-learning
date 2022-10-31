@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md"
+                "file": "Educational Technology for Mathematics/Educational Technology.md"
               }
             }
           }
@@ -138,15 +138,28 @@
   },
   "active": "dbcbc98ac01ed0d4",
   "lastOpenFiles": [
+<<<<<<< HEAD
+    "Assets/Digital technology for dynamic mathematics.png",
+    "Educational Technology for Mathematics/Educational Technology.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
+=======
     "Educational Technology for Mathematics/Educational Technology.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
+>>>>>>> 1a664c24d1560e96edb17c1f1cc588fae14684bb
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
     "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Desmos.md",
+<<<<<<< HEAD
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md"
+=======
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality.md"
+>>>>>>> 1a664c24d1560e96edb17c1f1cc588fae14684bb
   ]
 }
