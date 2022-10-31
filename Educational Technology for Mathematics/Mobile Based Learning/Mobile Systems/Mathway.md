@@ -2,7 +2,7 @@
 tags: [mathway,mathematical-learning,mobile-based]
 ---
 
-# Mathway to Assist Mathematic Learning
+## Mathway to Assist Mathematic Learning
 
 Mathway is a [[Mobile-Based Learning]] platform for students with the tools they need to understand and solve their math problems. They also have a [[Web Based Learning]] platform called [[Mathway.com]].
 

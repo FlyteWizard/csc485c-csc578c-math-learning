@@ -3,7 +3,7 @@ alias: [TPACK]
 tags: [TPACK,technology,learning,teaching]
 ---
 
-# Technological Pedagogical Content Knowledge (TPACK)
+## Technological Pedagogical Content Knowledge (TPACK)
 
 ![[TPACK Diagram.png]]
 Figure 1: A diagram depicting the overlap in teaching that is referenced as TPACK [^1].

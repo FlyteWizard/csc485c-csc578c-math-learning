@@ -1,7 +1,8 @@
 ---
 tags: [desmos,calculator,web-application]
 ---
-# Desmos Studio and Graphing Calculator
+
+## Desmos Studio and Graphing Calculator
 
 > [!quote] 
 > > "Desmos Studio is a Public Benefit Corporation with a goal of helping everyone learn math, love math, and grow with math. We believe that everyone has an inner mathematician and that some people haven’t been given the opportunity, encouragement, or tools to discover theirs. So we prioritize [equity](https://www.desmos.com/equity?lang=en) and [accessibility](https://www.desmos.com/accessibility?lang=en) at every level of our work" [^1].

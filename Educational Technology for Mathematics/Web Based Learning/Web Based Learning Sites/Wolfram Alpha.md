@@ -2,7 +2,7 @@
 tags: [wolfram-alpha,mathematics,calculator,artificial-intelligence,self-paced,support,resource]
 ---
 
-# Wolfram Alpha - Computational Intelligence
+## Wolfram Alpha - Computational Intelligence
 
 > [!quote] 
 > > "Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology" [^1].

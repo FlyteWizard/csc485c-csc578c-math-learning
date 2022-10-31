@@ -2,7 +2,7 @@
 tags: [whiteboard,pre-school,grade-school,high-school]
 ---
 
-# Interactive Whiteboards for Teaching Mathematics
+## Interactive Whiteboards for Teaching Mathematics
 
 An Interactive Whiteboard (IBW) is an electronic whiteboard that provides a digital interface via a projector to display computer images [^1]. It functions as a traditional chalkboard that supports interactive flipcharts, dry-wipe writing, and video integration [^2]. The brand name SMART Boards$^{\text{TM}}$ [^3] instead uses an interactive display with SMART Pens. 
 

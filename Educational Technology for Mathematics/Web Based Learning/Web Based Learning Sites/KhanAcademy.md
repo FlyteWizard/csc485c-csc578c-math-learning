@@ -2,7 +2,7 @@
 tags: [problem-based,video,visual-learning,web-based,youtube,khan-academy]
 ---
 
-# Khan Academy to Support Mathematics Learning
+## Khan Academy to Support Mathematics Learning
 
 [[KhanAcademy]] offers practice exercises, instructional videos, and a personalized [[Web Based Learning]] dashboard that empowers learners to study at their own pace in and outside of the classroom.
 

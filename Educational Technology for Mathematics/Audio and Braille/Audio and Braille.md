@@ -3,7 +3,7 @@ alias: [Taylor Frame]
 tags: [audio,learning,mathematics,braille,text-to-speech]
 ---
 
-# Learning Math with Audio and Braille Systems
+## Learning Math with Audio and Braille Systems
 
 Audio and Braille learning refers to systems like [[Nemeth Code]], [[math2braille]], and [[REMathEx]]. These learning system are largely used by people with little to no vision in math focused contexts. Similar to LaTeX [^1], REMathEx enhances rendering of mathematical equations.
 
