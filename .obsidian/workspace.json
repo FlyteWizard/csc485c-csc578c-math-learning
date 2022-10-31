@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Learning/University.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Learning/University.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Learning/University.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Learning/University.md"
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md"
               }
             }
           }
@@ -138,6 +138,8 @@
   },
   "active": "dbcbc98ac01ed0d4",
   "lastOpenFiles": [
+    "Index.md",
+    "Types of Learning/University.md",
     "Types of Learning/Technological Pedagogical Content Knowledge.md",
     "Types of Learning/Learning.md",
     "Types of Learning/High School.md",
@@ -145,8 +147,6 @@
     "Types of Learning/Elementary School.md",
     "Educational Technology for Mathematics/Educational Technology.md",
     "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Tabletop.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/NeoTrieVR.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md"
+    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md"
   ]
 }
