@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md"
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md"
               }
             }
           }
@@ -139,6 +139,7 @@
   },
   "active": "664e2040611b3307",
   "lastOpenFiles": [
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
     "Educational Technology for Mathematics/Educational Technology.md",
@@ -147,7 +148,6 @@
     "Types of Learning/High School.md",
     "Types of Learning/Learning.md",
     "Types of Learning/Technological Pedagogical Content Knowledge.md",
-    "Types of Learning/University.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md"
+    "Types of Learning/University.md"
   ]
 }
