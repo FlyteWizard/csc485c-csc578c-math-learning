@@ -6,7 +6,7 @@ tags: [nemeth-code,braille,mobile]
 
 [[Nemeth Code]] is a language for writing mathematics in braille. The purpose of nemeth code is to shorten the length of mathematical equations compared to Unified English Braille (UEB).
 
-TC Tutor Mobile Application attempts to help students learn both nemeth code and math. Nemeth code has a lot of rules and is essentially another language to learn on top of learning mathematics [^1].
+The NC Tutor Mobile Application attempts to help students learn both nemeth code and math. Nemeth code has a lot of rules and is essentially another language to learn on top of learning mathematics [^1].
 
 The application takes input from a touch screen and then outputs voiced and vibrational feedback. Figure 1 shows the initial design of the application. Users have the option to learn math braille, complete exercises, and access a calculator.
 
