@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "019c09c2ab2bf585",
+        "id": "31c347d7120f96e5",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ff5adbaa042400",
+            "id": "664e2040611b3307",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Learning/Elementary School.md",
+                "file": "Types of Learning/Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Learning/Elementary School.md",
+                "file": "Types of Learning/Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Learning/Elementary School.md",
+                "file": "Types of Learning/Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,28 +125,29 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Learning/Elementary School.md"
+                "file": "Types of Learning/Learning.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "c9ff5adbaa042400",
+  "active": "664e2040611b3307",
   "lastOpenFiles": [
-    "Types of Learning/High School.md",
-    "Types of Learning/Elementary School.md",
-    "Types of Learning/Game-Based Learning.md",
-    "Types of Learning/Learning.md",
-    "Types of Learning/Technological Pedagogical Content Knowledge.md",
-    "Types of Learning/University.md",
+    "2022-10-31.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
+    "Educational Technology for Mathematics/Educational Technology.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
     "Index.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
-    "Assets/AI/AI Educational Supports.png",
-    "Assets/AI/MathScanner Example.png"
+    "Types of Learning/University.md",
+    "Types of Learning/Elementary School.md",
+    "Types of Learning/High School.md",
+    "Types of Learning/Game-Based Learning.md"
   ]
 }

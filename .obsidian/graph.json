@@ -1,8 +1,8 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
-  "showAttachments": false,
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
@@ -17,11 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< Updated upstream
-  "scale": 0.7983099209587553,
+  "scale": 0.34846785852582807,
   "close": true
-=======
-  "scale": 0.9784986393578876,
-  "close": false
->>>>>>> Stashed changes
 }
