@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Educational Technology.md",
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Educational Technology.md",
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Educational Technology.md",
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Educational Technology.md"
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "664e2040611b3307",
   "lastOpenFiles": [
-    "Types of Learning/Game-Based Learning.md",
-    "Types of Learning/Elementary School.md",
     "Educational Technology for Mathematics/Educational Technology.md",
     "Types of Learning/University.md",
     "Types of Learning/Technological Pedagogical Content Knowledge.md",
     "Types of Learning/Learning.md",
     "Types of Learning/High School.md",
+    "Types of Learning/Game-Based Learning.md",
+    "Types of Learning/Elementary School.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Desmos.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md"
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Desmos.md"
   ]
 }

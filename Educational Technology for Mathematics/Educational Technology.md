@@ -5,7 +5,7 @@ tags: [educational-technology,learning,learning-theory,mathematical-learning]
 ## Educational Technology and Mathematics
 
 > [!quote] 
-> > "Educational technology (commonly abbreviated as \[EduTech\], or \[EdTech\]) is the combined use of computer hardware, software, and educational theory and practice to facilitate [[learning]]  [^1] [^2]."  - [^3]
+> > "Educational technology (commonly abbreviated as \[EduTech\], or \[EdTech\]) is the combined use of computer hardware, software, and educational theory and practice to facilitate [[learning]]  [^1]  [^2]."  - [^3]
 
 Technology is booming in every industry, from business to communication to education and lifestyle. The psychology of [[learning]] has been able to expand and reach more people with the use of [[Educational Technology]] or EdTech. In recent times [[Artificial Intelligence]] is helping students by solving complex problems using mobile devices. With the help of [[Audio and Braille]], people with visual disabilities are able to learn basic to complex mathematics in a similar fashion to their able-bodied counterparts. [[Augmented Reality]] has created opportunities for new learning possibilities, where students can learn from real-world environments mixed with manipulable virtual overlays. [[Mixed Reality]] helps to keep users engaged by allowing them to physically interact with the digital components of the given system.
 
