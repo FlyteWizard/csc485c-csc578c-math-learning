@@ -16,6 +16,5 @@ tags: [machine-learning,artificial-intelligence,Quora]
 > > - Helping to digitalize resources for easier sharing and content creation.
 > > - Learning things by heart: there are apps like Anki which help kids learn arbitrary information by heart. This learning algorithm could potentially be improved by AI. 
 
-[^1] Mitchell, Tom (1997). Machine Learning. New York: McGraw Hill. ISBN 0-07-042807-7. OCLC 36417892 
-
-[^2] Quora Answered by ADO MUHAMMED: https://www.quora.com/Can-machine-learning-or-AI-help-kids-with-experiencing-difficulty-in-mathematics-master-the-subject 
+[^1]: Mitchell, Tom (1997). Machine Learning. New York: McGraw Hill. ISBN 0-07-042807-7. OCLC 36417892.
+[^2]: A. MUHAMMED. "Quora Answers". Quora. \[Online\]. Available: https://www.quora.com/Can-machine-learning-or-AI-help-kids-with-experiencing-difficulty-in-mathematics-master-the-subject. \[Accessed: 30-Oct-2022\].

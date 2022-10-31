@@ -9,7 +9,7 @@ tags: [remathex,text-to-speech]
 Figure 1 shows a simplified structure of the REMathEx system. It begins by reading tables, transforming them into a Dokument Structure with resulting math expressions. Finally it is transferred to an application that uses text-to-speech.
 
 ![[REMathEx System Diagram.png]]
-Figure 1: The simplified structure of the REMathEx system. The arrows show the dataflow when the system generates the preview and the braille form of the mathematical expression [^1].
+Figure 1. The simplified structure of the REMathEx system. The arrows show the dataflow when the system generates the preview and the braille form of the mathematical expression [^1].
 
 The system still needs better navigation and faster orientation inside the mathematical expression. And it still needs a system for modifying mathematical expressions.
 
