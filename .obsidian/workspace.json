@@ -13,11 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
-=======
-                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
->>>>>>> 8f9da0bf63daa7dc48468122938d996ea46f6e05
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,11 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
-=======
-                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
->>>>>>> 8f9da0bf63daa7dc48468122938d996ea46f6e05
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,11 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
-=======
-                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
->>>>>>> 8f9da0bf63daa7dc48468122938d996ea46f6e05
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,11 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md"
-=======
-                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md"
->>>>>>> 8f9da0bf63daa7dc48468122938d996ea46f6e05
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md"
               }
             }
           }
@@ -154,7 +138,7 @@
   },
   "active": "effd1bd6d109df2c",
   "lastOpenFiles": [
-<<<<<<< HEAD
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Desmos.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
@@ -163,19 +147,6 @@
     "Assets/Web/QuoramathDash.png",
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md"
-=======
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md"
->>>>>>> 8f9da0bf63daa7dc48468122938d996ea46f6e05
+    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md"
   ]
 }
