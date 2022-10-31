@@ -8,4 +8,4 @@ KhanAcademy is a [[Web Based Learning]] designed to enhance mathematical educati
 
 ![[KhanAcademy dashboard.png]]Figure 1.  The interface of KhanAcademy for high school geometry [^1]
 
-[^1]: “What is the history of Khan Academy? - khan academy help center.” [Online]. Available: https://support.khanacademy.org/hc/en-us/articles/202483180-What-is-the-history-of-Khan-Academy-. [Accessed: 31-Oct-2022].
+[^1]: "What is the history of Khan Academy? - khan academy help center." \[Online\]. Available: https://support.khanacademy.org/hc/en-us/articles/202483180-What-is-the-history-of-Khan-Academy-. \[Accessed: 31-Oct-2022\].
