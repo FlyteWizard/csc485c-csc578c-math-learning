@@ -9,4 +9,4 @@ GeoGebra is a software system designed to create an environment where learners c
 ![[GeoGebra Display.png]]
 Figure 1. An image of the GeoGebra web display. [^1]
 
-[^1] “About Geogebra,” What is GeoGebra? [Online]. Available: https://www.geogebra.org/about. [Accessed: 25-Oct-2022].
+[^1]: “About Geogebra,” What is GeoGebra? [Online]. Available: https://www.geogebra.org/about. [Accessed: 25-Oct-2022].

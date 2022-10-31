@@ -12,6 +12,5 @@ Figure 1.  An image of the printable ArcCube [^2].
 ![[ArcCube Display.png]]
 Figure 2. An image of what a learner would see when using the ArcCube and ClassVR headset. [^1]
 
-[^1] “Mathematics Virtual Reality Resources,” ClassVR, 27-May-2022. [Online]. Available: https://www.classvr.com/vr-ar-resources/mathematics-vr-teaching-resources/. [Accessed: 25-Oct-2022].
-
-[^2] “Using 3D Models with ARCube,” ClassVR Support Portal. [Online]. Available: https://support.classvr.com/portal/en/kb/articles/using-3d-models-with-arcube. [Accessed: 25-Oct-2022].
+[^1]: “Mathematics Virtual Reality Resources,” ClassVR, 27-May-2022. [Online]. Available: https://www.classvr.com/vr-ar-resources/mathematics-vr-teaching-resources/. [Accessed: 25-Oct-2022].
+[^2]: “Using 3D Models with ARCube,” ClassVR Support Portal. [Online]. Available: https://support.classvr.com/portal/en/kb/articles/using-3d-models-with-arcube. [Accessed: 25-Oct-2022].
