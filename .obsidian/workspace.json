@@ -13,11 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
-=======
-                "file": "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
->>>>>>> bf7e7d631d4fa967edc905ee892cea381a0be622
+                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,11 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
-=======
-                "file": "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
->>>>>>> bf7e7d631d4fa967edc905ee892cea381a0be622
+                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,11 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
-=======
-                "file": "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
->>>>>>> bf7e7d631d4fa967edc905ee892cea381a0be622
+                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,11 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md"
-=======
-                "file": "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md"
->>>>>>> bf7e7d631d4fa967edc905ee892cea381a0be622
+                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Ancient Analog Calculator.md"
               }
             }
           }
@@ -154,28 +138,15 @@
   },
   "active": "dbcbc98ac01ed0d4",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
-    "Assets/Web/QuoramathDash.png",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile-Based Learning.md"
-=======
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
     "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
     "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
     "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
     "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools.md",
     "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md"
->>>>>>> bf7e7d631d4fa967edc905ee892cea381a0be622
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md"
   ]
 }
