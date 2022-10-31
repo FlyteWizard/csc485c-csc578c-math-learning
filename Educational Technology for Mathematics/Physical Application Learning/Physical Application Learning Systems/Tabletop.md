@@ -2,7 +2,7 @@
 tags: [tabletop,augmented-reality,grade-school,tuoi,disability]
 ---
 
-# Tabletop System to Promote Learning
+## Tabletop System to Promote Learning
 
 > [!quote] 
 > > Mathematics, understood as "a system of tools, products and processes" used by people in their lives to make daily decisions and guide their actions" [^1].

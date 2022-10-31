@@ -2,7 +2,7 @@
 tags: [video,visual-learning,web-based,youtube,khan-academy,support,resource,self-paced]
 ---
 
-# Self-Paced E-Learning with Video
+## Self-Paced E-Learning with Video
 
 Educational videos are often used as supplement material to explain complex concepts. Some [[University]] Professors create entire lecture videos or use a flipped classroom approach and deliver short videos of content and then do problem-solving examples in lecture.
 

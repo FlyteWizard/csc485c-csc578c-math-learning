@@ -2,7 +2,7 @@
 tags: [educational-technology,learning,learning-theory,mathematical-learning]
 ---
 
-# What is Educational Technology?
+## What is Educational Technology?
 
 Educational technology (commonly abbreviated as edutech, or edtech) is the combined use of computer hardware, software, and educational theory and practice to facilitate [[Learning]]  [^1] [^2]. 
 

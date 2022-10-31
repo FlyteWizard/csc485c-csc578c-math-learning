@@ -2,7 +2,7 @@
 tags: [remathex,text-to-speech]
 ---
 
-# Reader and Editor of the Mathematical Expressions
+## Reader and Editor of the Mathematical Expressions
 
 "\[REMathEx\] uses the combination of the braille display and the speech synthesis outputs to provide the user with all the information concerning studied mathematical expressions" [^1]. The system uses the MathML format to store the mathematical expressions and is designed as an object oriented system. It uses the Audis hypertext system.
 

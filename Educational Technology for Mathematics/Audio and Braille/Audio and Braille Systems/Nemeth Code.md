@@ -2,7 +2,7 @@
 tags: [nemeth-code,braille]
 ---
 
-# Nemeth Code for Math and Science Notations
+## Nemeth Code for Math and Science Notations
 
 "Nemeth Code is a special type of braille used for math and science notations" [^1]. Dr. Abraham Nemeth developed the code in 1946 and the Braille Authority of North America (BANA) accepted it as standard in 1952.
 

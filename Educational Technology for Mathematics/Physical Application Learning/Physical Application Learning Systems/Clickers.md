@@ -2,7 +2,7 @@
 tags :[university,mobile,application,tools,teaching]
 ---
 
-# Using Clickers for Formative Assessment in Classrooms
+## Using Clickers for Formative Assessment in Classrooms
 
 A clicker is a physical or mobile application that records answers to multiple choice questions. The iClicker [^1] is a well known system at universities. Platforms such as Zoom [^2] have digital versions of clickers that allow educators to quiz students.
 
