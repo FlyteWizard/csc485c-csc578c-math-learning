@@ -23,11 +23,7 @@ Figure 1: Matching numbers with the correct pictures [^5].
 In the study, it is mentioned that [[Technological Pedagogical Content Knowledge|TPACK]] is an important part of learning to teach using technology. Instructors having a solid grasp on the fundamentals of their subject enhances the learning process for students (an important part of adopting new systems).
 
 [^1]: T. Goodson-Epsy, and L. Poling. "Interactive Whiteboards: Preparing Secondary Mathematics Teachers to Avoid Catch-22". (2015). DOI: 10.4018/978-1-4666-6497-5.ch014.
-
 [^2]: Y. Shi, J. Zhanga, H. Yangb and H. Hao Yang. "Effects of Interactive Whiteboard-based Instruction on Students’ Cognitive Learning Outcomes: A Meta-Analysis". (2020). \[Online\]. Available: https://doi.org/10.1080/10494820.2020.1769683. \[Accessed: 28-Oct-2022\].
-
 [^3]: SMARTBOARDS. \[Online\]. Available: https://www.smartboards.com. \[Accessed: 28-Oct-2022\].
-
 [^4]: F. C. Bonafini, and Y. Lee. "Portraying Mathematics Pre-service Teachers’ Experience of Creating Video Lessons with Portable Interactive Whiteboards through the Technological Pedagogical Content Knowledge". Available: https://doi.org/10.1080/1547688X.2021.1980167.
-
 [^5]: M. Bourbour, and D. Masoumi"Practise what you preach: the Interactive Whiteboard in preschool mathematics education". (2017). Available: https://doi.org/10.1080/03004430.2016.1192617.

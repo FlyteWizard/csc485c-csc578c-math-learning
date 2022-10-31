@@ -8,7 +8,7 @@ A clicker is a physical or mobile application that records answers to multiple c
 
 The purpose of clickers within lectures is to encourage student participation with active learning. According to iClicker utilizing polls, and quizzes increases end-of-course grades [^1].
 
-Clickers can allow educators to notice areas of confusion before formal examinations. In a study "student's demonstrated their mathematical understanding in numerous ways besides keying their answer choice into the clickers" [^3]. Educators can then identify areas of confusion and then ask students to clarify their thought process that lead them to the incorrect answers and then correct errors.
+Clickers can allow educators to notice areas of confusion before formal examinations. In a study by D. Polly, E. Rodgers, and M. Little "student's demonstrated their mathematical understanding in numerous ways besides keying their answer choice into the clickers" [^3]. Educators can then identify areas of confusion and then ask students to clarify their thought process that lead them to the incorrect answers and then correct errors.
 
 Educators that wish to incorporate clickers into math courses will most likely need to follow [[Technological Pedagogical Content Knowledge|TPACK]] to gain the full benefits [^4]. And to adapt question to account for time and feedback.
 
