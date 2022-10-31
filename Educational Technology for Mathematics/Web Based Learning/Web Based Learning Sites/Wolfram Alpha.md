@@ -5,7 +5,7 @@ tags: [wolfram-alpha,mathematics,calculator,artificial-intelligence,self-paced,s
 ## Wolfram Alpha - Computational Intelligence
 
 > [!quote] 
-> > "Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology" [1].
+> > "Compute expert-level answers using Wolfram's breakthrough algorithms, knowledgebase and AI technology" [^1].
 
 Wolfram Alpha is an application most known for mathematics but also has tools for sciences, tech, society, culture, and everyday life. It allows users to access step-by-step solutions to mathematical problems and can provide visuals to core concepts. For example, it can provide graphs alongside equations. The concept of the application can viewed as a self-paced learning tool for students [[learning]] math.
 
