@@ -12,6 +12,5 @@ Figure 1. An image of a geometric shape as seen using Construct3D. [^1]
 ![[Construct3D Environment.png]]
 Figure 2. The testing environment of Construct3D with a digital overlay to see what learners see. [^1]
 
-[^1] H. Kaufmann, D. Schmalstieg, and M. Wagner, “Construct3D: A Virtual Reality Application for Mathematics and Geometry Education,” Education and Information Technologies, vol. 5, no. 4, pp. 263–276, 2000. [Online]. Available:[https://link.springer.com/content/pdf/10.1023/A:1012049406877.pdf](https://link.springer.com/content/pdf/10.1023/A:1012049406877.pdf)
-
-[^2] Z. Szalavári, D. Schmalstieg, A. Fuhrmann, and M. Gervautz, “‘Studierstube’: An environment for collaboration in augmented reality,” Virtual Reality, vol. 3, no. 1, pp. 37–48, Mar. 1998.**
+[^1]: H. Kaufmann, D. Schmalstieg, and M. Wagner, “Construct3D: A Virtual Reality Application for Mathematics and Geometry Education,” Education and Information Technologies, vol. 5, no. 4, pp. 263–276, 2000. [Online]. Available:[https://link.springer.com/content/pdf/10.1023/A:1012049406877.pdf](https://link.springer.com/content/pdf/10.1023/A:1012049406877.pdf)
+[^2]: Z. Szalavári, D. Schmalstieg, A. Fuhrmann, and M. Gervautz, “‘Studierstube’: An environment for collaboration in augmented reality,” Virtual Reality, vol. 3, no. 1, pp. 37–48, Mar. 1998.**

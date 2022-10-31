@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md"
               }
             }
           }
@@ -138,15 +138,15 @@
   },
   "active": "dbcbc98ac01ed0d4",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Photomath.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Educational Technology.md",
-    "Types of Learning/Elementary School.md",
-    "Types of Learning/Game-Based Learning.md"
+    "Index.md"
   ]
 }
