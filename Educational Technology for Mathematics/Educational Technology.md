@@ -18,7 +18,7 @@ Finally, with all of this information in mind, it is clear that educational tech
 ![[Digital technology for dynamic mathematics.png]]
 Figure 1. An image of a class learning dynamic mathematics with digital technology [^4].
 
-[^1]: R. Robinson, M. Molenda, and L. Rezabek, “Association for Educational Communications and Technology,” in _Facilitating Learning_, Association for Educational Communications and Technology, 2015, pp. 16–48.
-[^2]: N. Mastellos, T. Tran, K. Dharmayat, E. Cecil, H.-Y. Lee, C. C. Wong, W. Mkandawire, E. Ngalande, J. T.-S. Wu, V. Hardy, B. G. Chirambo, and J. M. O’Donoghue, “Training Community Healthcare Workers on the use of information and communication technologies: A randomised controlled trial of traditional versus blended learning in Malawi, Africa,” _BMC Medical Education_, vol. 18, no. 1, 2018.
-[^3]:“Educational Technology,” _Wikipedia_, 25-Oct-2022. [Online]. Available: https://en.wikipedia.org/wiki/Educational_technology. [Accessed: 30-Oct-2022].
-[^4]: Ucl, “Digital technology for Dynamic Mathematics,” _IOE - Faculty of Education and Society_, 10-Jan-2022. [Online]. Available: https://www.ucl.ac.uk/ioe/research-projects/2022/jan/digital-technology-dynamic-mathematics. [Accessed: 31-Oct-2022].
+[^1]: R. Robinson, M. Molenda, and L. Rezabek, ‘Association for Educational Communications and Technology', in _Facilitating Learning_, Association for Educational Communications and Technology, Routledge, 2015, pp. 16–48.
+[^2]: N. Mastellos _et al._, ‘Training community healthcare workers on the use of information and communication technologies: a randomised controlled trial of traditional versus blended  learning in Malawi, Africa.’, _BMC Med Education_, vol. 18, no. 1, Apr. 2018, doi: [10.1186/s12909-018-1175-5](https://doi.org/10.1186/s12909-018-1175-5).
+[^3]: ‘Educational Technology,' _Wikipedia_. Accessed: Oct. 25, 2022. [Online]. Available: https://en.wikipedia.org/wiki/Educational_technology.
+[^4]: UCL, ‘Digital technology for Dynamic Mathematics', _IOE - Faculty of Education and Society_, 10-Jan-2022. Accessed: Oct. 31, 2022 [Online]. Available: https://www.ucl.ac.uk/ioe/sites/ioe/files/dynamic-maths-1400x680.jpg.
