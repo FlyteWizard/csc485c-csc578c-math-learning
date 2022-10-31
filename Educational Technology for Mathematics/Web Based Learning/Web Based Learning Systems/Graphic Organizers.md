@@ -8,6 +8,6 @@ Graphics Organizers are descriptive images used to help students understand impo
 In mathematical learning, GO's have been helpful for students with disabilities to understand where key information in textbooks are, which is difficult for many students in this demographic [^1].  It provides a visual and guided representation of mathematical knowledge that they should obtain from their lessons.  These benefits have been seen in [[Elementary School]] up to [[High School]] [^1].  Additionally, one activity in particular that assisted students was to finish a partially complete GO diagram, which helped ensure students and teachers that no one is lost [^1].
 
 ![[Graphic Organizer.png]]
-Figure 1.  An example of a Graphic Organizer: a Venn diagram.
+Figure 1.  An example of a Graphic Organizer: a Venn diagram [^1].
 
-[^1]: P. Maccini and J. Gagnon, “Math Graphic Organizers For Students With Disabilities,” _The American Institute of Research_ , Nov. 2005.
+[^1]: P. Maccini and J. C. Gagnon, ‘Math graphic organizers for students with disabilities’, _The American Institute of Research_, 2005.
