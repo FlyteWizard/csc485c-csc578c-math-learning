@@ -14,6 +14,6 @@ tags: [mathematical-learning,learning,learning-theory]
 
 ---
 
-1. R. Gross, _Psychology: The Science of Mind and Behaviour_, 6th ed. Hachette UK. ISBN 978-1-4441-6436-7.
-2. K. Illeris, _The three dimensions of learning_. Malabar, Fla: Krieger Pub. Co., 2004. ISBN 9781575242583.
-3. J. Ormrod, _Human learning_, 6th ed. Boston: Pearson, 2012. ISBN 9780132595186.
+1. R. Gross, _Psychology: The Science of Mind and Behaviour_, 6th ed. Hachette UK: Hodder Education, 2010. ISBN 978-1-4441-6436-7.
+2. K. Illeris, _The Three Dimensions of Learning_. Krieger Publishing Company, 2004. ISBN 9781575242583.
+3. J. E. Ormrod, _Human Learning_, 6th ed. Pearson, 2012. ISBN 9780132595186.
