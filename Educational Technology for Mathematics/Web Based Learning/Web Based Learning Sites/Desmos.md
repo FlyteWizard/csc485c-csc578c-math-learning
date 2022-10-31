@@ -31,7 +31,7 @@ A \times B = \left[ {\begin{array}{cc}
 			\end{array} } \right].
 $$
 ![[Desmos Matrix Calculator.png]]
-Figure 1: Desmos Matrix Calculator performing a calculation of 2x2 matrices [^1].
+Figure 1. Desmos Matrix Calculator performing a calculation of 2x2 matrices [^1].
 
 However, unlike [[Wolfram Alpha]], it does not provide a step-by-step solution. Thus, students can use the tool to check their calculations, but they cannot use it as a self-paced learning tool.
 

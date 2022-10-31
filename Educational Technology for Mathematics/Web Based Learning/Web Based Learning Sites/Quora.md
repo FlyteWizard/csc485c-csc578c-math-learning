@@ -17,5 +17,4 @@ If someone is asking "How should I learn mathematics?" they might get a web resu
 > > 4.  Don’t get discouraged. Maths is hard for everyone, and takes years to learn. In fact, you can never finish learning it. Don’t beat yourself up if you find something difficult to understand.
 > > 5.  Work with other people. Working with friends makes the whole experience way more fun. This shouldn’t be a slog. Maths can be intensely social."
 
-
 [^1]: Matthew Geleta reply in [[Quora]], https://www.quora.com/How-should-I-learn-mathematics-1?no_redirect=1
