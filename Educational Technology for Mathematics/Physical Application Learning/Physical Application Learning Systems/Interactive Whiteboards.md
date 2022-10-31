@@ -13,7 +13,7 @@ The ability to capture students thought process with (P)IBWs lets them deeply en
 As well, (P)IWBs can quickly adapt to students interests. In a study on reasoning about young children's mathematical education with IWBs [^5], an instructor mentioned that students could customize the counting objects. Increasing young children's involvement in mathematical learning.
 
 > [!quote] 
-> > In one instance the children were asked to count and sort different objects, such as cars and trees, according to size (small and big) and then by colour on IWB. - Camila [^5]
+> > In one instance the children were asked to count and sort different objects, such as cars and trees, according to size (small and big) and then by colour on IWB. - Camila [5]
 
 In Figure 1 a student is using an IWB to correctly match by dragging and dropping elements. 
 

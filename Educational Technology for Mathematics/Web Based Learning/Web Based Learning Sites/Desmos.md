@@ -5,7 +5,7 @@ tags: [desmos,calculator,web-application]
 ## Desmos Studio and Graphing Calculator
 
 > [!quote] 
-> > "Desmos Studio is a Public Benefit Corporation with a goal of helping everyone learn math, love math, and grow with math. We believe that everyone has an inner mathematician and that some people haven’t been given the opportunity, encouragement, or tools to discover theirs. So we prioritize [equity](https://www.desmos.com/equity?lang=en) and [accessibility](https://www.desmos.com/accessibility?lang=en) at every level of our work" [^1].
+> > "Desmos Studio is a Public Benefit Corporation with a goal of helping everyone learn math, love math, and grow with math. We believe that everyone has an inner mathematician and that some people haven’t been given the opportunity, encouragement, or tools to discover theirs. So we prioritize [equity](https://www.desmos.com/equity?lang=en) and [accessibility](https://www.desmos.com/accessibility?lang=en) at every level of our work" [1].
 
 Desmos is a [[Web Based Learning]] system that provides a variety of services including a Graphing Calculator, Matrix Calculator, and Geometry Tool. They also have a [[Mobile-Based Learning]] application. Similar to Neso Academy, Desmos wants to foster learning and self-directed learning.
 

@@ -9,14 +9,14 @@ Educational videos are often used as supplement material to explain complex conc
 YouTube, a video hosting website, is a popular method of distribution for educators. Neso Academy [^1], for example, has a mission of providing free and subsidized education. "Introduction to Discrete Mathematics" [^2] a video motivating students to learn discrete math has over 700k views with a positive ratio in feedback. usually the purpose of these is to encourage self-directed learning by providing easy access to course material.
 
 > [!quote] 
-> "Every individual is different and talented, what you need are passion and curiosity" [^1].
+> "Every individual is different and talented, what you need are passion and curiosity" [1].
 
 Educational videos are often made with a tablet and a computer program to write on a digital whiteboard. They can be digitally similar to [[interactive whiteboards]] but without learner touch interaction. [[KhanAcademy]] [^3] is another example of a successful YouTube channel that promotes learning and curiosity. A few other notable channels are: Numberphile [^4], Mathademics [^5], and Dr. Trefor Bazett [^6]. These channels often use problem-based approaches to teach complex concepts.
 
 <iframe width="500" height="315" src="https://www.youtube-nocookie.com/embed/p2b2Vb-cYCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 > [!quote] 
-> "Problem-based video podcasts provide short, web-based, audio-visual explanations of how to solve specific procedural problems in subject areas such as mathematics" [^7].
+> "Problem-based video podcasts provide short, web-based, audio-visual explanations of how to solve specific procedural problems in subject areas such as mathematics" [7].
 
 According to Dr. Trefor Bazett [^8] videos should be no more than 3 minutes long. However, it is not uncommon to have 20 minute videos in higher levelled mathematics. Bazett also mentions that the benefits of videos are lowered extrinsic load and boosted germane load for learners. 
 
