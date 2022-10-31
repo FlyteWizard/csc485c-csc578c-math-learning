@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,6 +138,9 @@
   },
   "active": "dbcbc98ac01ed0d4",
   "lastOpenFiles": [
+    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
     "Index.md",
     "Types of Learning/University.md",
     "Types of Learning/Game-Based Learning.md",
