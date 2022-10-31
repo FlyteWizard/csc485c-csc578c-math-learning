@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "6894bfe99c647148",
+        "id": "e3bff43761d68315",
         "type": "tabs",
         "children": [
           {
-            "id": "9bd2eb19407b0fe0",
+            "id": "35046c0deda5f74d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Learning/Elementary School.md",
+                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a44dc408d6ef8a5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#educational-technology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "d8c5553fd343a541",
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Learning/Elementary School.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Learning/Elementary School.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -114,7 +121,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequencyReverse",
+                "sortOrder": "frequency",
                 "useHierarchy": false
               }
             }
@@ -124,28 +131,28 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Types of Learning/Elementary School.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "7e6681c19f800c49",
+  "active": "882623f1185657ad",
   "lastOpenFiles": [
-    "Types of Learning/Game-Based Learning.md",
-    "Types of Learning/High School.md",
-    "Types of Learning/Learning.md",
-    "Types of Learning/Technological Pedagogical Content Knowledge.md",
-    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
-    "Types of Learning/University.md",
-    "Types of Learning/Elementary School.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
+    "2022-10-30.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Cymath.com.md",
+    "Pasted image 20221029170649.png.md",
     "Index.md",
-    "Assets/Equation Solver Example.png"
+    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Photomath.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
+    "Types of Learning/Learning.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md"
   ]
 }
