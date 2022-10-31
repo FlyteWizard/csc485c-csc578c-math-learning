@@ -13,12 +13,12 @@ The ability to capture students thought process with (P)IBWs lets them deeply en
 As well, (P)IWBs can quickly adapt to students interests. In a study on reasoning about young children's mathematical education with IWBs [^5], an instructor mentioned that students could customize the counting objects. Increasing young children's involvement in mathematical learning.
 
 > [!quote] 
-> > In one instance the children were asked to count and sort different objects, such as cars and trees, according to size (small and big) and then by colour on IWB ... [^5]. - Camila
+> > In one instance the children were asked to count and sort different objects, such as cars and trees, according to size (small and big) and then by colour on IWB. - Camila [^5]
 
 In Figure 1 a student is using an IWB to correctly match by dragging and dropping elements. 
 
 ![[Interactive Whiteboards Example.png]]
-Figure 1: Matching numbers with the correct pictures [^5].
+Figure 1. Matching numbers with the correct pictures [^5].
 
 In the study, it is mentioned that [[Technological Pedagogical Content Knowledge|TPACK]] is an important part of learning to teach using technology. Instructors having a solid grasp on the fundamentals of their subject enhances the learning process for students (an important part of adopting new systems).
 
