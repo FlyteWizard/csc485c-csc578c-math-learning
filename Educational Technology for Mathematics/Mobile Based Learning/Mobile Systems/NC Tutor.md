@@ -11,6 +11,7 @@ TC Tutor Mobile Application attempts to help students learn both nemeth code and
 The application takes input from a touch screen and then outputs voiced and vibrational feedback. Figure 1 shows the initial design of the application. Users have the option to learn math braille, complete exercises, and access a calculator.
 
 ![[Nemeth Code Tutor Example.png]]
+Figure 1: The NC Tutor initial proposed application [^1].
 
 The hope of the completed application is to complement the [[Audio and Braille|Taylor Frame]], and the [[Ancient Analog Calculator|Abacus]] in classrooms.
 

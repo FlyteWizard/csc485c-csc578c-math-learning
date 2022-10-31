@@ -26,4 +26,4 @@ In the study, it is mentioned that [[Technological Pedagogical Content Knowledge
 [^2]: Y. Shi, J. Zhanga, H. Yangb and H. Hao Yang. "Effects of Interactive Whiteboard-based Instruction on Students’ Cognitive Learning Outcomes: A Meta-Analysis". (2020). \[Online\]. Available: https://doi.org/10.1080/10494820.2020.1769683. \[Accessed: 28-Oct-2022\].
 [^3]: SMARTBOARDS. \[Online\]. Available: https://www.smartboards.com. \[Accessed: 28-Oct-2022\].
 [^4]: F. C. Bonafini, and Y. Lee. "Portraying Mathematics Pre-service Teachers’ Experience of Creating Video Lessons with Portable Interactive Whiteboards through the Technological Pedagogical Content Knowledge". Available: https://doi.org/10.1080/1547688X.2021.1980167.
-[^5]: M. Bourbour, and D. Masoumi"Practise what you preach: the Interactive Whiteboard in preschool mathematics education". (2017). Available: https://doi.org/10.1080/03004430.2016.1192617.
+[^5]: M. Bourbour, and D. Masoumi. "Practise what you preach: the Interactive Whiteboard in preschool mathematics education". (2017). Available: https://doi.org/10.1080/03004430.2016.1192617.
