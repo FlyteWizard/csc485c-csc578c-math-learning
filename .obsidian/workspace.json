@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "019c09c2ab2bf585",
+        "id": "ec330ecfe8ebf850",
         "type": "tabs",
         "children": [
           {
-            "id": "c9ff5adbaa042400",
+            "id": "dbcbc98ac01ed0d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Learning/Learning.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#educational-technology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "d8c5553fd343a541",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Learning/Learning.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Learning/Learning.md",
+                "file": "Educational Technology for Mathematics/Educational Technology.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,29 +125,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Learning/Learning.md"
+                "file": "Educational Technology for Mathematics/Educational Technology.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "c9ff5adbaa042400",
+  "active": "dbcbc98ac01ed0d4",
   "lastOpenFiles": [
-    "Types of Learning/Technological Pedagogical Content Knowledge.md",
-    "Types of Learning/Learning.md",
-    "Types of Learning/University.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
+    "Educational Technology for Mathematics/Educational Technology.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
     "Index.md",
-    "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
-    "Types of Learning/High School.md",
-    "Assets/AI/AI Educational Supports.png",
-    "Assets/AI/MathScanner Example.png",
-    "Assets/AI/MathScanner.png",
-    "Types of Learning/Game-Based Learning.md"
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md"
   ]
 }
