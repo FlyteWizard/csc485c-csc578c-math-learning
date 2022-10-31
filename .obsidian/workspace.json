@@ -125,11 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "Index.md"
-=======
-                "file": "Educational Technology for Mathematics/Educational Technology.md"
->>>>>>> 42da195ba33ee15110cb6eb6ef5915ca99442315
               }
             }
           }
@@ -143,14 +139,14 @@
   "active": "7a7fdf592515b589",
   "lastOpenFiles": [
     "Types of Learning/University.md",
+    "Types of Learning/Game-Based Learning.md",
+    "Index.md",
+    "Educational Technology for Mathematics/Educational Technology.md",
     "Types of Learning/Technological Pedagogical Content Knowledge.md",
     "Types of Learning/Learning.md",
     "Types of Learning/High School.md",
-    "Types of Learning/Game-Based Learning.md",
     "Types of Learning/Elementary School.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
-    "Educational Technology for Mathematics/Educational Technology.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md"
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md"
   ]
 }
