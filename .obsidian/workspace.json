@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
+=======
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
+>>>>>>> fef9583e48cbf737392b526847d48c63ad2faad5
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
+=======
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
+>>>>>>> fef9583e48cbf737392b526847d48c63ad2faad5
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
+=======
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
+>>>>>>> fef9583e48cbf737392b526847d48c63ad2faad5
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md"
+=======
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md"
+>>>>>>> fef9583e48cbf737392b526847d48c63ad2faad5
               }
             }
           }
@@ -138,6 +154,7 @@
   },
   "active": "effd1bd6d109df2c",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
     "Educational Technology for Mathematics/Mobile Based Learning/Mobile-Based Learning.md",
@@ -148,5 +165,17 @@
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Desmos.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md"
+=======
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md"
+>>>>>>> fef9583e48cbf737392b526847d48c63ad2faad5
   ]
 }

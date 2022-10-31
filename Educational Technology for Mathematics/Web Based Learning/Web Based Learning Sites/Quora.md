@@ -18,4 +18,4 @@ If someone is asking "How should I learn mathematics?" they might get a web resu
 > > 5.  Work with other people. Working with friends makes the whole experience way more fun. This shouldn’t be a slog. Maths can be intensely social."
 
 
-[^1]  Matthew Geleta reply in [[Quora]], https://www.quora.com/How-should-I-learn-mathematics-1?no_redirect=1
+[^1]: Matthew Geleta reply in [[Quora]], https://www.quora.com/How-should-I-learn-mathematics-1?no_redirect=1

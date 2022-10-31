@@ -19,7 +19,6 @@
 > 	1.1 [[Cymath.com]]
 > 	1.2 [[Microsoft Math]]
 > 	1.3 [[Math Scanner]]
-> 	1.4 [[Photomath]]
 > 2. [[Audio and Braille]]
 > 	2.1 [[REMathEx]] 
 > 	2.2 [[Nemeth Code]]
