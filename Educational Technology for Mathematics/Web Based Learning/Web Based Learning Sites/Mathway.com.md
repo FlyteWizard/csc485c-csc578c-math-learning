@@ -13,4 +13,4 @@ Figure 1 displays the input screen for the algebra-based equation solver [^1].  
 ![[Mathway System.png]]
 Figure 1.  Algebra interface for Mathway web [^1].
 
-[^1]: "Over 5 billion problems solved," _Mathway_. \[Online\]. Available: https://www.mathway.com/about. \[Accessed: 30-Oct-2022\].
+[^1]: "Over 5 billion problems solved," _Mathway_. \[Online\]. Available: https://www.mathway.com/about. 

@@ -1,23 +1,19 @@
 {
   "main": {
-    "id": "b69d68c4f96a154c",
+    "id": "4976b68c6c704459",
     "type": "split",
     "children": [
       {
-        "id": "ec330ecfe8ebf850",
+        "id": "f9c1222cb45165d0",
         "type": "tabs",
         "children": [
           {
-            "id": "dbcbc98ac01ed0d4",
+            "id": "effd1bd6d109df2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
-=======
-                "file": "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
->>>>>>> bf7e7d631d4fa967edc905ee892cea381a0be622
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
                 "mode": "source",
                 "source": false
               }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6a71590cf4966798",
+    "id": "3be9e8c9a3dc5605",
     "type": "split",
     "children": [
       {
-        "id": "88192324a6dfab59",
+        "id": "7f8ef5593ec2befe",
         "type": "tabs",
         "children": [
           {
-            "id": "882623f1185657ad",
+            "id": "309c3f0d8560d0be",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +43,12 @@
             }
           },
           {
-            "id": "42ad8d26b3975482",
+            "id": "e68bd6e6f966da49",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#educational-technology",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "4bbd34f71efdf2a8",
+            "id": "78ea44b471077b41",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -73,75 +69,63 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 300
   },
   "right": {
-    "id": "d8c5553fd343a541",
+    "id": "8ba50922c9cd7b9c",
     "type": "split",
     "children": [
       {
-        "id": "c545a61f37005c01",
+        "id": "9f8c09701cfab650",
         "type": "tabs",
         "children": [
           {
-            "id": "7e6681c19f800c49",
+            "id": "cbf9cd1228e00543",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
-=======
-                "file": "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
->>>>>>> bf7e7d631d4fa967edc905ee892cea381a0be622
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aff408152e4b2958",
+            "id": "d700afac12438a16",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
-=======
-                "file": "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
->>>>>>> bf7e7d631d4fa967edc905ee892cea381a0be622
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "02127564b35762f9",
+            "id": "b840c917600043f4",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequencyReverse",
-                "useHierarchy": false
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "79e7ad373dcea441",
+            "id": "1b3bd4c8d6f5251b",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md"
-=======
-                "file": "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md"
->>>>>>> bf7e7d631d4fa967edc905ee892cea381a0be622
+                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md"
               }
             }
           }
@@ -152,30 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dbcbc98ac01ed0d4",
+  "active": "effd1bd6d109df2c",
   "lastOpenFiles": [
-<<<<<<< HEAD
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Desmos.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
+    "Index.md",
     "Assets/Web/QuoramathDash.png",
     "Educational Technology for Mathematics/Virtual Reality/Virtual Reality Systems/ClassVR.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile-Based Learning.md"
-=======
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/GeoGebra.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md"
->>>>>>> bf7e7d631d4fa967edc905ee892cea381a0be622
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md"
   ]
 }
