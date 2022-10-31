@@ -125,7 +125,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Index.md"
+=======
+                "file": "Educational Technology for Mathematics/Educational Technology.md"
+>>>>>>> 42da195ba33ee15110cb6eb6ef5915ca99442315
               }
             }
           }
