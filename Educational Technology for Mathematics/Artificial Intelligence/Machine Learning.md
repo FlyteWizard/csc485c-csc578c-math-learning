@@ -5,12 +5,12 @@ tags: [machine-learning,artificial-intelligence,Quora]
 ## Machine Learning (ML) in Mathematical Learning
 
 > [!quote] 
-> > "Machine Learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks [1,2]. It is seen as a part of [[Artificial Intelligence]].
+> > "Machine Learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks [^2]. It is seen as a part of [[Artificial Intelligence]]. - [^1]
 
 In a study by Gabriel et al., machine learning was utilized in order to determine patterns between learning strategies and mathematical learning success [^3].  This machine learning technique is a very useful tool in determining trends among successful teaching styles and learning strategies [^3]. In particular, this research team utilized a large amount of data (referred to as PISA) to create correlations between learners [^3].  This is a great new tactic among researchers to develop learning tools and understand learning over large populations.  Similarly, in another study by Morilla et al., machine learning techniques were used to predict mathematical performance [^4].  This information is also particularly important because it provides insightful knowledge to the student about their performance.  Therefore we can say that to improve and facilitate math learning, machine learning is helping to build valuable models and applications. 
 
 > [!quote] 
-> Regarding a question about "Can machine learning or AI help kids with experiencing difficulty in mathematics master the subject?" in [[Quora]] [2].
+> Regarding a question about "Can machine learning or AI help kids with experiencing difficulty in mathematics master the subject?" in [[Quora]] [^5].
 > 
 > > Machine Learning  tools can support kids for several learning minor tasks like :
 > > - Figuring out how a symbol is called.

@@ -7,7 +7,7 @@ tags: [video,visual-learning,web-based,youtube,khan-academy]
 Quora is a dedicated forum-based [[Web Based Learning]] website that is marketed as a place to share information [^1]. In particular, Quora has specific locations for certain topics like math [^2]. The interface for this math-specific page is shown in Figure 1 [^2].  The benefit of using Quora is diversity. People with different backgrounds and locations can provide insight to particular problems. This creates a comfortable community of question-and-solution interactions, which aid in creating an atmosphere where people feel comfortable reaching out for help. This aids mathematical learning because it allows people from all demographics to ask questions without fear of repercussions and shame. Without these judgemental obstacles, people learn the answers to their questions and can gain more mathematical knowledge.
 
 > [!quote] 
-> As an example, if someone asks "How should I learn mathematics?" they might get a web result from Quora, where people from different parts of the world respond.  In response to the previous question,  Matthew Geleta, who is a mathematician replied [3] :
+> As an example, if someone asks "How should I learn mathematics?" they might get a web result from Quora, where people from different parts of the world respond.  In response to the previous question,  Matthew Geleta, who is a mathematician replied [^3] :
 > 
 > > "1.  Learn slowly and patiently. This will end up making you learn a lot faster down the line.
 > > 2.  Work through problems yourself. There is no use is just reading about maths. You really have to solve problems to get anything out of it.
