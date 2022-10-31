@@ -9,7 +9,7 @@ Educational videos are often used as supplement material to explain complex conc
 YouTube is a popular method of distribution. Neso Academy [^1], for example, has a mission of providing free and subsidized education. "Introduction to Discrete Mathematics" [^2] a video motivating students to learn discrete math has over 700k views with a positive ratio for feedback.
 
 > [!quote] 
-> Every individual is different and talented, what you need are passion and curiosity [^1].
+> "Every individual is different and talented, what you need are passion and curiosity" [^1].
 
 Educational videos often use a tablet with a computer program to write on a digital whiteboard. They can digitally be similar to [[Interactive Whiteboards]] but without the touch interaction. [[KhanAcademy]] [^3] is another example of a successful YouTube channel that promotes learning. A few other channels are: Numberphile [^4], Mathademics [^5], and Dr. Trefor Bazett [^6]. These channels often use problem-based approaches to teach concepts.
 
