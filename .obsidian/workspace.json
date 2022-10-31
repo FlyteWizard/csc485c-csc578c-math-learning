@@ -13,7 +13,11 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+<<<<<<< HEAD
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
+=======
+                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
+>>>>>>> aeffda464769522c0f0fceedc107af627ae167d5
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +89,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+<<<<<<< HEAD
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
+=======
+                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
+>>>>>>> aeffda464769522c0f0fceedc107af627ae167d5
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+<<<<<<< HEAD
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
+=======
+                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
+>>>>>>> aeffda464769522c0f0fceedc107af627ae167d5
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +137,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+<<<<<<< HEAD
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md"
+=======
+                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md"
+>>>>>>> aeffda464769522c0f0fceedc107af627ae167d5
               }
             }
           }
@@ -138,19 +154,28 @@
   },
   "active": "dbcbc98ac01ed0d4",
   "lastOpenFiles": [
+<<<<<<< HEAD
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile-Based Learning.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Desmos.md"
+=======
+    "Index.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
-    "Index.md",
     "Types of Learning/University.md",
-    "Types of Learning/Game-Based Learning.md",
-    "Index.md",
-    "Educational Technology for Mathematics/Educational Technology.md",
     "Types of Learning/Technological Pedagogical Content Knowledge.md",
     "Types of Learning/Learning.md",
-    "Types of Learning/High School.md",
-    "Types of Learning/Elementary School.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md"
+    "Types of Learning/High School.md"
+>>>>>>> aeffda464769522c0f0fceedc107af627ae167d5
   ]
 }
