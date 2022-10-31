@@ -9,7 +9,6 @@ Microsoft Math is an [[Artificial Intelligence]] based math [[Learning]] and sol
 In addition to the solver, Microsoft developed and trained a math language to understand the problem type and trigger appropriate answer modules. Using Bing Search APIs, which is available as part of Azure Cognitive Services, it can analyze the given math problem and provide relevant math concepts and video answers [^1].  Figure 1 shows how a learner would utilize their camera to provide an equation to the math-solving system.
 
 ![[AI Mathematics Example.png]]
-Figure 1. A learner taking a picture of an equation for Microsoft Math to help solve. [^1]
+Figure 1. A learner taking a picture of an equation for Microsoft Math to help solve the problem [^1].
 
-[^1] “Microsoft Math with optical character recognition - microsoft AI lab,” _Microsoft Math with Optical Character Recognition - Microsoft AI Lab_. [Online]. Available: https://www.microsoft.com/en-us/ai/ai-lab-microsoft-math. [Accessed: 30-Oct-2022].
-
+[^1]: "Microsoft Math with optical character recognition - Microsoft AI Lab," _Microsoft Math with Optical Character Recognition - Microsoft AI Lab_. \[Online\]. Available: https://www.microsoft.com/en-us/ai/ai-lab-microsoft-math. \[Accessed: 30-Oct-2022\].

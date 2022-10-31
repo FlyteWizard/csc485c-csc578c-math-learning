@@ -9,6 +9,5 @@ ClassVR is a [[Virtual Reality]] (VR) system that may work alone or in a duo wit
 ![[ClassVR Headset.png]]
 Figure 1.  An in-depth look at a ClassVR headset. [^1]
 
-[^1] “Mathematics Virtual Reality Resources,” ClassVR, 27-May-2022. [Online]. Available: https://www.classvr.com/vr-ar-resources/mathematics-vr-teaching-resources/. [Accessed: 25-Oct-2022].
-
-[^2] S. Pile, “Mathematics VR Case Study: Estimation & Prediction (student age 5-7),” ClassVR, 15-Jun-2022. [Online]. Available: https://www.classvr.com/case-studies/mathematics-estimation-and-prediction-student-age-5-7/. [Accessed: 25-Oct-2022].
+[^1]: “Mathematics Virtual Reality Resources,” ClassVR, 27-May-2022. [Online]. Available: https://www.classvr.com/vr-ar-resources/mathematics-vr-teaching-resources/. [Accessed: 25-Oct-2022].
+[^2]: S. Pile, “Mathematics VR Case Study: Estimation & Prediction (student age 5-7),” ClassVR, 15-Jun-2022. [Online]. Available: https://www.classvr.com/case-studies/mathematics-estimation-and-prediction-student-age-5-7/. [Accessed: 25-Oct-2022].

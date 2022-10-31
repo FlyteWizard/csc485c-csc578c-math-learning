@@ -9,4 +9,4 @@ VRMath is a software system that allows learners to create and manipulate 3D geo
 ![[VRMath Display.png]]
 Figure 1. The geometric design display for VRMath. [^1]
 
-[^1] A. Yeh, “VRMath 2.0: Design, create and Share Online 3D virtual worlds,” VRMath 2.0 | Design, Create and Share online 3D Virtual Worlds. [Online]. Available: https://vrmath2.net/. [Accessed: 25-Oct-2022].
+[^1]: A. Yeh, “VRMath 2.0: Design, create and Share Online 3D virtual worlds,” VRMath 2.0 | Design, Create and Share online 3D Virtual Worlds. [Online]. Available: https://vrmath2.net/. [Accessed: 25-Oct-2022].
