@@ -8,5 +8,5 @@ Game-based learning has been popular in an educational setting for a long time w
 
 [^1]: M. R. Lepper and D. I. Cordova, ‘A desire to be taught: Instructional consequences of intrinsic motivation’, _Motivation and Emotion_, vol. 16, no. 3, pp. 187–208, Sep. 1992, doi: [10.1007/BF00991651](https://doi.org/10.1007/BF00991651).
 [^2]: J. Huizenga, W. Admiraal, G. ten Dam, and J. Voogt, ‘Mobile game-based learning in secondary education: Students’ immersion, game activities, team performance and learning outcomes’, _Computers in Human Behavior_, vol. 99, pp. 137–143, Oct. 2019, doi: [10.1016/j.chb.2019.05.020](https://doi.org/10.1016/j.chb.2019.05.020).
-[^3]: B. Divjak and D. Tomić, "The Effect of Game-Based Learning on Academic Achievement Motivation of Elementary School Students," Journal of Informational and Organizational Sciences, vol. 35, no. 1, pp. 15–30, 2011.
-[^4]: M. Pivec, "Editorial: Play and learn: Potentials of game-based learning," British Journal of Educational Technology, vol. 38, no. 3, pp. 387–393, 2007.
+[^3]: B. Divjak and D. Tomić, ‘The Effect of Game-Based Learning on Academic Achievement Motivation of Elementary School Students', _Journal of Informational and Organizational Sciences_, vol. 35, no. 1, pp. 15–30, 2011.
+[^4]: M. Pivec, ‘Editorial: Play and learn: potentials of game-based learning’, British Journal of Educational Technology, vol. 38, no. 3, pp. 387–393, 2007.
