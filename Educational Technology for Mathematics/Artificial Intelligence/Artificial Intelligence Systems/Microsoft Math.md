@@ -4,13 +4,11 @@ tags: [artificial-intelligence, microsoft-math, machine-learning,computer-vision
 
 ## Using Microsoft Math to Assist Learning
 
-Microsoft Math is an [[Artificial Intelligence]] based math [[Learning]] and solving system by Microsoft. Using the math solver engine that is already included into OneNote, Microsoft created a backend for a math solver. For a smooth arithmetic experience for the client, this compute-intensive service is geo-distributed among data centres and hosted on Azure cloud.
+Microsoft Math is an [[Artificial Intelligence]] based math [[Learning]] and solving system by Microsoft. Using the math solver engine that is already included in OneNote, Microsoft created a backend environment to aid that existing math solver. For a smooth arithmetic experience for the client, this compute-intensive service is geo-distributed among data centres and hosted on Azure cloud.
 
-In addition to the solver, Microsoft developed and trained a math language to understand the problem type and trigger appropriate answer modules. Using Bing Search APIs, which is available as part of Azure Cognitive Services, it can analyse the given math problem and provide relevant math concepts and video answers [^1].  
+The way that Microsoft Math augments mathematical learning is that it analyzes a given math equation that is provided by the learner.  In response to this equation, and while using a specially developed math language, Microsoft Math returns relevant resources and videos to aid in answering the problem [^1].  Figure 1 shows how a learner would utilize their camera to provide an equation to the math-solving system.
 
-This is the next generation invention of Microsoft in aiding [[Learning]] based on [[Educational Technology]]. It's helping thousands of students to interact with the real life math problems, it's also hoping their brainstorming and access to any solution of complex equation.
-
-Figure 1 shows how a learner would utilize their camera to provide an equation to the math-solving system.
+This is the next generation invention of Microsoft in aiding [[Learning]] based on [[Educational Technology]]. Its goal is to help thousands of students interact with the real life math problems and create a network of mathematical resources.
 
 ![[AI Mathematics Example.png]]
 Figure 1. A learner taking a picture of an equation for Microsoft Math to help solve the problem [^1].
