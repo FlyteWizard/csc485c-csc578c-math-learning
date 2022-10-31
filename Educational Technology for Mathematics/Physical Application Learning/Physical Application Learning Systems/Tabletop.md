@@ -5,7 +5,7 @@ tags: [tabletop,augmented-reality,grade-school,tuoi,disability]
 ## Tabletop System to Promote Learning
 
 > [!quote] 
-> > Mathematics, understood as "a system of tools, products and processes" used by people in their lives to make daily decisions and guide their actions" [^1].
+> > "Mathematics, understood as 'a system of tools, products and processes" used by people in their lives to make daily decisions and guide their actions'" [^1].
 
 "The study provides evidence to suggest several reasons why the tabletop instructional effectiveness is higher than that using traditional construction tools with \[students\]" [^2]. In the study they explore a touch based system for interacting with money through a Virtual Shopping Simulation Game for Currency. The [[game-based learning]] approach allowed students to work collaboratively to solve problems and engage in role play scenarios. Students were encouraged to work together to solve problems. For example, the third activity focused on selecting the correct currency amount for purchasing at a store.
 
