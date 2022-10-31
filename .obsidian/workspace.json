@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Learning/Technological Pedagogical Content Knowledge.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Types of Learning/Technological Pedagogical Content Knowledge.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Types of Learning/Technological Pedagogical Content Knowledge.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Types of Learning/Technological Pedagogical Content Knowledge.md"
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md"
               }
             }
           }
@@ -138,6 +138,7 @@
   },
   "active": "dbcbc98ac01ed0d4",
   "lastOpenFiles": [
+    "Types of Learning/Technological Pedagogical Content Knowledge.md",
     "Types of Learning/University.md",
     "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md",
     "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
@@ -146,7 +147,6 @@
     "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md",
     "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/MathOMatic Blocks.md",
     "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
-    "Index.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md"
+    "Index.md"
   ]
 }
