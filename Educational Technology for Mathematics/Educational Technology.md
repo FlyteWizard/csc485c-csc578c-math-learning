@@ -11,6 +11,8 @@ Technology is booming in every industry, from business to communication to educa
 
 [[Mobile-Based Learning]] become accessible even in the period of COVID-19, students in developed country to developing country, every where they used distance learning method to teach students. With the help of mobile based systems like [[Mathway]] where students take a picture of their current math problem with their mobile phone and submit it to receive instant solutions and explanations.
 
+[[Web Based Learning]] is not new, its started since the starting of WWW. In [[KhanAcademy]] student can practice within an educational setting and at their own pace outside of school. There are a bunch of good web sites like [[Mathway.com]], [[Quora]] math, [[Wolfram Alpha]] and many more  available for learning math.
+
 Therefore it's absolute that [[Educational Technology]] is helping the humanity to spade the knowledge more and in a broad way.
 
 ![[Digital technology for dynamic mathematics.png]]
