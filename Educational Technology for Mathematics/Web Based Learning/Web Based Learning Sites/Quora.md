@@ -4,9 +4,11 @@ tags: [video,visual-learning,web-based,youtube,khan-academy]
 
 ## Quora as Mathematical Learning Support
 
-Quora is a place to gain and share knowledge. It's a [[Web Based Learning]] platform to ask questions and connect with people who contribute unique insights and quality answers. 
+Quora is a place to gain and share knowledge. It's a [[Web Based Learning]] platform to ask questions and connect with people who contribute unique insights and quality answers. [[Quora]] have a dedicated domain: https://mathquestions.quora.com/ for math learners. 
 
-If someone is asking "How should I learn mathematics?" they might get a web result from Quora, where people from different parts of the world respond. 
+If someone is asking "How should I learn mathematics?" they might get a web result from Quora, where people from different parts of the world respond. It's a good platform to learn and share mathematical knowledges.
+
+In a study, authors examined the students' perceptions of effective mathematics instruction and instruction in general, they used data from social media platforms: Twitter and [[Quora]] [^2] . 
 
 > [!quote] 
 > In response to the question "How should I learn mathematics?" Matthew Geleta, who is a mathematician replied [^1] :
@@ -17,4 +19,9 @@ If someone is asking "How should I learn mathematics?" they might get a web resu
 > > 4.  Don’t get discouraged. Maths is hard for everyone, and takes years to learn. In fact, you can never finish learning it. Don’t beat yourself up if you find something difficult to understand.
 > > 5.  Work with other people. Working with friends makes the whole experience way more fun. This shouldn’t be a slog. Maths can be intensely social."
 
-[^1]: Matthew Geleta reply in [[Quora]], https://www.quora.com/How-should-I-learn-mathematics-1?no_redirect=1
+![[QuoramathDash.png]]
+Figure 1.  The interface of [[Quora]] Mathematics [^3] 
+
+[^1] Matthew Geleta reply in [[Quora]], https://www.quora.com/How-should-I-learn-mathematics-1?no_redirect=1
+[^2] Zimba, Margaret. "Analysis of students’ perception of good mathematics teachers and teaching using informal conversations from Twitter and Quora." (2019).  
+[^3] https://mathquestions.quora.com/ 
