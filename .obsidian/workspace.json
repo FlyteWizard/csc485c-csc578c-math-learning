@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a15472f7085e6ee9",
+        "id": "6894bfe99c647148",
         "type": "tabs",
         "children": [
           {
-            "id": "eb69d7e5880a7a17",
+            "id": "9bd2eb19407b0fe0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#educational-technology",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 265.5
   },
   "right": {
     "id": "d8c5553fd343a541",
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/NC Tutor.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/NC Tutor.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/NC Tutor.md"
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md"
               }
             }
           }
@@ -132,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "882623f1185657ad",
+  "active": "9bd2eb19407b0fe0",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/NC Tutor.md",
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md",
+    "Cymath.md",
     "Index.md",
-    "YouTube.md",
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Photomath.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md"
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
+    "Educational Technology for Mathematics/Educational Technology.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Wolfram Alpha.md"
   ]
 }
