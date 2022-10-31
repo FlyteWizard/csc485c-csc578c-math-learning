@@ -13,9 +13,7 @@
 > > 6. [[University]]
 
 > [!Abstract] 
-> > # [[Educational Technology]]
-> Educational technology is the combined use of computer hardware, software, and educational theory and practice to facilitate [[Learning]]. 
-> 
+> # Educational Technology
 > The Educational Technology folder holds all of the augmentation systems designed to aid mathematical learning and is the main subject of our vault.  The fundamental organization of this vault is between parent and child folders.  Within the Educational Technology folder, there are various subsections that hold subtypes of systems related to the topic.  Within each subtype is a note that describes the type of technology and how it can be used to augment mathematical learning.  Finally, inside the subtype folder is a nested folder containing all of the relevant systems and technologies related to the topic of augmenting mathematical learning.  The following list displays the overview of the technology section of this vault.
 > 1. [[Artificial Intelligence]]
 > 	1.1 [[Cymath.com]]
