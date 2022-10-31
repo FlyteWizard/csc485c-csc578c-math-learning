@@ -10,7 +10,7 @@ Figure 1. A diagram depicting the overlap in teaching that is known collectively
 
 The diagram in Figure 1 represents the three main constructs that embody TPACK. The first component is Pedagogical Knowledge (PK), the second component is Content Knowledge (CK), and the third component is Technological Knowledge (TK). Each of these three constructs overlap to create Pedagogical Content Knowledge (PCK), Technological Content Knowledge (TCK), and Technological Pedagogical Knowledge (TPK) respectively. Together all three overlap to create Technological Pedagogical Content Knowledge (TPACK).
 
-TPACK is needed to effectively teach with technology [^2]. In other words, it is the educators ability to integrate technology, pedagogy, and content knowledge in teaching to support student learning [^1]. 
+TPACK is needed to effectively teach with technology [^2]. In other words, it is the educators ability to integrate technology, pedagogy, and content knowledge in teaching to support student [[learning]] [^1]. 
 
 Thus, learning mathematics with systems and technology also depends on the adoption from educators. The systems and technologies need to aid educators in creating meaningful curriculum for students. Brief, educators must accepted that the systems and technologies are effective and beneficial to learning before they can be integrated into the curriculum.
 
