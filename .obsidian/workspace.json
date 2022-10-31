@@ -13,11 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-=======
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
->>>>>>> aeffda464769522c0f0fceedc107af627ae167d5
+                "file": "Types of Learning/Technological Pedagogical Content Knowledge.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,11 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-=======
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
->>>>>>> aeffda464769522c0f0fceedc107af627ae167d5
+                "file": "Types of Learning/Technological Pedagogical Content Knowledge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,11 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-=======
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
->>>>>>> aeffda464769522c0f0fceedc107af627ae167d5
+                "file": "Types of Learning/Technological Pedagogical Content Knowledge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -137,11 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md"
-=======
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md"
->>>>>>> aeffda464769522c0f0fceedc107af627ae167d5
+                "file": "Types of Learning/Technological Pedagogical Content Knowledge.md"
               }
             }
           }
@@ -154,28 +138,15 @@
   },
   "active": "dbcbc98ac01ed0d4",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile-Based Learning.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Quora.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Desmos.md"
-=======
-    "Index.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
     "Types of Learning/University.md",
-    "Types of Learning/Technological Pedagogical Content Knowledge.md",
-    "Types of Learning/Learning.md",
-    "Types of Learning/High School.md"
->>>>>>> aeffda464769522c0f0fceedc107af627ae167d5
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/Construct3D.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Systems/ARCube.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/MathOMatic Blocks.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
+    "Index.md",
+    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md"
   ]
 }
