@@ -1,48 +1,35 @@
 {
   "main": {
-    "id": "b69d68c4f96a154c",
+    "id": "638fae3820d29d62",
     "type": "split",
     "children": [
       {
-        "id": "e3bff43761d68315",
+        "id": "860db0eb251dc063",
         "type": "tabs",
         "children": [
           {
-            "id": "35046c0deda5f74d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a44dc408d6ef8a5",
+            "id": "f2d105ac5d267e90",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6a71590cf4966798",
+    "id": "9485936dadeba372",
     "type": "split",
     "children": [
       {
-        "id": "88192324a6dfab59",
+        "id": "beda569b7ef17d98",
         "type": "tabs",
         "children": [
           {
-            "id": "882623f1185657ad",
+            "id": "aabb6e53aa336779",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -52,7 +39,7 @@
             }
           },
           {
-            "id": "42ad8d26b3975482",
+            "id": "0175a25a473e20a5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,7 +54,7 @@
             }
           },
           {
-            "id": "4bbd34f71efdf2a8",
+            "id": "d2ebe4e2ca6bfc75",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -81,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "d8c5553fd343a541",
+    "id": "0fdb07b3d655877f",
     "type": "split",
     "children": [
       {
-        "id": "c545a61f37005c01",
+        "id": "e046b61d0d82cfcc",
         "type": "tabs",
         "children": [
           {
-            "id": "7e6681c19f800c49",
+            "id": "1ec167dea569b15f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -100,59 +87,47 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "aff408152e4b2958",
+            "id": "a1d559d09f054259",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
                 "linksCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "02127564b35762f9",
+            "id": "f6a7985b783055d0",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "79e7ad373dcea441",
+            "id": "d027ffd2e2509dcf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "882623f1185657ad",
-  "lastOpenFiles": [
-    "2022-10-30.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Cymath.com.md",
-    "Pasted image 20221029170649.png.md",
-    "Index.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Photomath.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.md",
-    "Types of Learning/Learning.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Mathway.md",
-    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md"
-  ]
+  "active": "f2d105ac5d267e90",
+  "lastOpenFiles": []
 }

@@ -2,7 +2,7 @@
 tags: [mixed-reality,mathematical-learning]
 ---
 
-# Augmenting Mathematical Learning with ed Reality (MR)
+## Augmenting Mathematical Learning with ed Reality (MR)
 
 Mixed reality (MR) is an immersive experience that combines reality with manipulatable digital overlays, but unlike virtual reality (VR) and augmented reality (AR), mixed reality includes the user physically interacting with the digital elements of the system [^1].  However, MR behaves as a tool for augmenting mathematical learning in the same ways as VR and AR: enhancing the learners ability to visualize data.  Visualizing mathematical data helps learners enhance their education by assisting in comprehending various complex geometric shapes as well as other visual representations of data [^2].  Additionally, MR can be combined with [[game-based learning]] to increase motivation and mathematical engagement [^3, 4].  An important advantage of MR is its interactivity, especially in younger children.  Hands-on exercises are a strong tool for engaging students in the learning process, and allows for more information retention after a lesson [^5].
 

@@ -1,8 +1,9 @@
 ---
+alias: [Abacus]
 tags: [calculator,mobile,elementary-school,application]
 ---
 
-# Arithmetic Calculations with a Digital Abacus
+## Arithmetic Calculations with a Digital Abacus
 
 Ancient Analog Calculator is a mobile Japanese Abacus simulator. An Abacus is generally used to teach Japanese primary school students how to do basic arithmetic in mathematics [^1]. Figure 1 shows the Japanese Abacus simulator. The application allows students to touch the beads to move them into the correct position during calculations. The advantage of a mobile application is the addition of visual support. Below the abacus simulator there is room to display numbers to aid students by providing instance numerical feedback.
 
