@@ -13,4 +13,4 @@ This is the next generation invention of Microsoft in aiding [[Learning]] based 
 ![[AI Mathematics Example.png]]
 Figure 1. A learner taking a picture of an equation for Microsoft Math to help solve the problem [^1].
 
-[^1]: "Microsoft Math with optical character recognition - Microsoft AI Lab," _Microsoft Math with Optical Character Recognition - Microsoft AI Lab_. \[Online\]. Available: https://www.microsoft.com/en-us/ai/ai-lab-microsoft-math. \[Accessed: 30-Oct-2022\].
+[^1]: ‘Microsoft Math with optical character recognition - Microsoft AI Lab', _Microsoft Math with Optical Character Recognition - Microsoft AI Lab_. Accessed: Oct. 30, 2022. [Online]. Available: https://www.microsoft.com/en-us/ai/ai-lab-microsoft-math.

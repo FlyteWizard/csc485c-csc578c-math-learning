@@ -9,5 +9,5 @@ Using [[Artificial Intelligence]], Cymath is an equation-solving system that ass
 ![[cymath System.png]]
 Figure 1. An empty equation input screen for Cymath.com [^2].
 
-[^1]: C. LLC, "About," _Cymath_. \[Online\]. Available: https://www.cymath.com/about. \[Accessed: 30-Oct-2022\].
-[^2]: C. LLC, "Cymath," _Cymath_. \[Online\]. Available: https://www.cymath.com/. \[Accessed: 30-Oct-2022\].
+[^1]: C. LLC, ‘About', _Cymath_. Accessed: Oct. 30, 2022. [Online]. Available: https://www.cymath.com/about.
+[^2]: C. LLC, ‘Cymath', _Cymath_. Accessed: Oct. 30, 2022. [Online]. Available: https://www.cymath.com/.

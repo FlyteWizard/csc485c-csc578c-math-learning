@@ -9,5 +9,5 @@ Math Scanner is a [[Machine Learning]] and [[Artificial Intelligence]] based mat
 ![[MathScanner.png]]
 Figure 1. The Math Scanner Interface in three panes; camera mode, solution mode, and learn math mode [^2].
 
-[^1]: _App Annie_. \[Online\]. Available: https://www.data.ai/en/apps/google-play/app/com.math.photo.scanner.equation.formula.calculator/. \[Accessed: 30-Oct-2022\].
-[^2]: Math Scanner. \[Online\]. Available: https://www.makeuseof.com/best-android-apps-to-solve-math-problems/. \[Accessed: 30-Oct-2022\].
+[^1]: ‘App Annie', _Data AI_. Accessed: Oct. 30, 2022. [Online]. Available:  https://www.data.ai/en/apps/google-play/app/com.math.photo.scanner.equation.formula.calculator/.
+[^2]: ‘Math Scanner'. Accessed: Oct. 30, 2022. [Online]. Available: https://www.makeuseof.com/best-android-apps-to-solve-math-problems/.
