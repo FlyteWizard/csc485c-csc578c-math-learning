@@ -13,4 +13,4 @@ Figure 1. The simplified structure of the REMathEx system. The arrows show the d
 
 The system still needs better navigation and faster orientation inside the mathematical expression. And it still needs a system for modifying mathematical expressions.
 
-[^1]: P. Gaura. (2002). REMathEx – Reader and Editor of the Mathematical Expressions for Blind Students. Available: https://link-springer-com.ezproxy.library.uvic.ca/content/pdf/10.1007/3-540-45491-8_92. \[Accessed: 30-Oct-2022\].
+[^1]: P. Gaura, ‘REMathEx - Reader and Editor of the Mathematical Expressions for Blind Students’, in _ICCHP_, 2002. Available: https://link.springer.com/chapter/10.1007/3-540-45491-8_92.

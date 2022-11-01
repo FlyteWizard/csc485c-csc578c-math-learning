@@ -20,5 +20,5 @@ Table 1. Nemeth Code Numbers (0-5). Braille SVG's from Wikipedia [^2].
 | Braille | ![[nemeth-code-braille-06.png]]  |  ![[nemeth-code-braille-07.png]] |  ![[nemeth-code-braille-08.png]] | ![[nemeth-code-braille-09.png]]  |  |
 Table2. Nemeth Code Number (6-9). Braille SVG's from Wikipedia [^2].
 
-[^1]: Do It. \[Online\]. Available: https://www.washington.edu/doit/what-nemeth-code. \[Accessed: 30-Oct-2022\].
-[^2]: Nemeth Braille. (2022). Available: https://en.wikipedia.org/wiki/Nemeth_Braille. \[Accessed: 30-Oct-2022\].
+[^1]: Do It, _Washington Edu_, 2022. Accessed: Oct. 30, 2022. [Online]. Available: https://www.washington.edu/doit/what-nemeth-code.
+[^2]: Nemeth Braille, _Wikipedia_, 2022. Accessed: Oct. 30, 2022. [Online]. Available: https://en.wikipedia.org/wiki/Nemeth_Braille.
