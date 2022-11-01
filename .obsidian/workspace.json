@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fd357318c0ef2920",
+        "id": "a0cc100ff9e1d830",
         "type": "tabs",
         "children": [
           {
-            "id": "581cee6165d63d7b",
+            "id": "288db7ee0f39ef93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Excel.md",
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Excel.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Excel.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Excel.md"
+                "file": "Index.md"
               }
             }
           }
@@ -137,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "581cee6165d63d7b",
+  "active": "288db7ee0f39ef93",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
+    "Index.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Excel.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Graphic Organizers.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
     "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Educational Technology.md",
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md"
+    "Educational Technology for Mathematics/Educational Technology.md"
   ]
 }
