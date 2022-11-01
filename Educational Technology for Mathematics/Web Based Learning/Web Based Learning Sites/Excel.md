@@ -1,0 +1,10 @@
+---
+tags: [excel,mathematical-learning,web-based]
+---
+
+## Using Excel to Improve Mathematical Learning
+
+Excel is spreadsheet application, which can be utilized as [[Web Based Learning]], with several built in mathematical functions. Each function can be set relative to other parts of the spreadsheet allowing for you to build fairly complex behaviour. Since all this behaviour is built into the spreadsheet itself, complex functions such as matrix transformations, can be done with every step visually presented to the learner. This can allow for excel to help people reach a deeper understanding than they otherwise could with a graphing calculator; if they are working with something that requires several steps, excel keeps these steps displayed on the screen rather than just calculating them behind a black box. In mathematical learning, this can be a valuable tool since students may want to keep track of the steps required to complete a complex problem.  Excel can create a history of progress for individual equations that helps augment learning by providing students with detailed information for every component of a problem's solution.  In the study by Lorenzen and Sattar, Excel is recommended to be used instead of a graphing calculator due to its visual and detailed nature [^2].  Excel is a useful tool for learners in many age demographics like [[Elementary School]], [[High School]], and [[University]].
+
+[^1]: A. S. Gillis, “What is Excel? everything you need to know - definition by whatis.com,” _SearchEnterpriseDesktop_, 15-Nov-2021. [Online]. Available: https://www.techtarget.com/searchenterprisedesktop/definition/Excel. [Accessed: 31-Oct-2022].
+[^2]: T. Lorenzen and A. Sattar, “Teach graphics using excel in place of a graphing calculator,” _ACM SIGCSE Bulletin_, vol. 38, no. 4, pp. 61–63, 2006.

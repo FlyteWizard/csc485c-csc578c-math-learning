@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0b695550c24bb5d7",
+        "id": "31c347d7120f96e5",
         "type": "tabs",
         "children": [
           {
-            "id": "440a2ab2a187b8db",
+            "id": "664e2040611b3307",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
+                "file": "Types of Learning/Game-Based Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc19881804035582",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d73691d770a85f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
+                "file": "Index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
+                "file": "Index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md"
+                "file": "Index.md"
               }
             }
           }
@@ -137,17 +162,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "440a2ab2a187b8db",
+  "active": "7d73691d770a85f2",
   "lastOpenFiles": [
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Educational Technology.md",
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/MathOMatic Blocks.md",
-    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md"
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Excel.md",
+    "Index.md",
+    "Assets/Graphic Organizer.png",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Graphic Organizers.md",
+    "Types of Learning/Game-Based Learning.md",
+    "Types of Learning/Elementary School.md",
+    "Types of Learning/Learning.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md"
   ]
 }
