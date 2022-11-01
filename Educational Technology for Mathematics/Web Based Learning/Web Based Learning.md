@@ -1,5 +1,5 @@
 ---
-tags: [web-based,mathematical-learning,accessible]
+tags: [web-based,mathematical-learning,Desmos,Excel,khan-academy,Mathway,Quora,Wolfram-alpha,graphic-organizers,video]
 ---
 
 ## Web Based Learning (Web Application)

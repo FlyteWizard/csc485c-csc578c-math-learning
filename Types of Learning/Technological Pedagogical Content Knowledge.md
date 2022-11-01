@@ -1,6 +1,6 @@
 ---
 alias: [TPACK]
-tags: [TPACK,technology,learning,teaching]
+tags: [educational-technology,learning,teaching]
 ---
 
 ## Technological Pedagogical Content Knowledge (TPACK)

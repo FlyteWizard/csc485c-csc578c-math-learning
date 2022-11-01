@@ -1,6 +1,6 @@
 ---
 alias: [Abacus]
-tags: [calculator,mobile,elementary-school,application]
+tags: [calculator,mobile-based,elementary-school,application]
 ---
 
 ## Arithmetic Calculations with a Digital Abacus

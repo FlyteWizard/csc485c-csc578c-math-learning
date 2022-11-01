@@ -1,5 +1,5 @@
 ---
-tags: [virtual-reality,mathematical-learning]
+tags: [virtual-reality,mathematical-learning,classvr,NeoTrieVR,VRMath]
 ---
 
 ## Virtual Reality (VR) in Mathematical Learning

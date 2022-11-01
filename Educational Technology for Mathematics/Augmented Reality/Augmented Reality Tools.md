@@ -1,5 +1,5 @@
 ---
-tags: [augmented-reality,tools,tuoi]
+tags: [augmented-reality,augmented-reality-tools,tuoi]
 ---
 
 ## Tools For Creating Augmented Reality Applications

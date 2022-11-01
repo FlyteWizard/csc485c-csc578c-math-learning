@@ -1,5 +1,5 @@
 ---
-tags: [physical,mathematical-learning]
+tags: [physical,mathematical-learning,whiteboard,gesture-base,tabletop]
 ---
 
 ## Learning Math with Touch and Movement

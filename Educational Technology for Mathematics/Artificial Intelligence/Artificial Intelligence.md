@@ -1,5 +1,5 @@
 ---
-tags: [artificial-intelligence,machine-learning,computer-vision,mathematical-learning]
+tags: [artificial-intelligence,machine-learning,computer-vision,mathematical-learning,cymath.com,microsoft-math,math-scanner]
 ---
 
 ## Artificial Intelligence (AI) in Mathematical Learning

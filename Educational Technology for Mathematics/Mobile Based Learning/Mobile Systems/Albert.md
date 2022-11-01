@@ -1,5 +1,5 @@
 ---
-tags: [Albert,mobile,elementary-school,high-school,game-based]
+tags: [Albert,mobile-based,elementary-school,high-school,game-based]
 ---
 
 ## Accessible Mathematics with Albert

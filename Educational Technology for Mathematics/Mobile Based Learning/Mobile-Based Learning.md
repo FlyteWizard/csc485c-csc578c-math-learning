@@ -1,5 +1,5 @@
 ---
-tags: [mobile, mathematical-learning, application]
+tags: [mobile-based, mathematical-learning, application,Albert,Mathway,nemeth-code]
 ---
 ## Learning Math with Mobile-Based Learning
 

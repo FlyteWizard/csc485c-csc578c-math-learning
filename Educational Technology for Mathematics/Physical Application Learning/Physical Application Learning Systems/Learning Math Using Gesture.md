@@ -1,6 +1,6 @@
 ---
 alias: [Gesture Base]
-tags: [Gesture,physical,elementary-school,game-based,gesture-base]
+tags: [physical,elementary-school,game-based,gesture-base]
 ---
 
 ## Gesture-based Physical Learning

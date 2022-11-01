@@ -1,5 +1,5 @@
 ---
-tags: [desmos,calculator,web-application]
+tags: [desmos,calculator,web-based]
 ---
 
 ## Desmos Studio and Graphing Calculator

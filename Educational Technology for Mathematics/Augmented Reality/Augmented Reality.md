@@ -1,5 +1,5 @@
 ---
-tags: [augmented-reality,mathematical-learning]
+tags: [augmented-reality,augmented-reality-tools,mathematical-learning,Geogebra,Construct3d,ARCube]
 ---
 
 ## Learning Math with Augmented Reality (AR)

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a0cc100ff9e1d830",
+        "id": "31c347d7120f96e5",
         "type": "tabs",
         "children": [
           {
-            "id": "288db7ee0f39ef93",
+            "id": "7d73691d770a85f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#mixed-reality",
+                "query": "tag:#iclickers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Interactive Whiteboards.md"
               }
             }
           }
@@ -134,20 +134,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "288db7ee0f39ef93",
+  "active": "7d73691d770a85f2",
   "lastOpenFiles": [
-    "Index.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Excel.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Graphic Organizers.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Cymath.com.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence Systems/Microsoft Math.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Computer Vision/Math Scanner.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
-    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
-    "Educational Technology for Mathematics/Educational Technology.md"
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning Systems/Clickers.md",
+    "Types of Learning/Technological Pedagogical Content Knowledge.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Desmos.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
+    "Types of Learning/University.md",
+    "Educational Technology for Mathematics/Physical Application Learning/Physical Application Learning.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools.md",
+    "Educational Technology for Mathematics/Educational Technology.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md"
   ]
 }

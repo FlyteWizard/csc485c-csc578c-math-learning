@@ -1,5 +1,5 @@
 ---
-tags: [mixed-reality,mathematical-learning]
+tags: [mixed-reality,mathematical-learning,CETA,projector-based]
 ---
 
 ## Augmenting Mathematical Learning with Mixed Reality (MR)

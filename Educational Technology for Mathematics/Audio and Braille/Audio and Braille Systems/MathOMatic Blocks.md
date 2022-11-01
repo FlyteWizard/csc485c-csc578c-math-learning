@@ -1,5 +1,5 @@
 ---
-tags: [MathOMatic,physical,elementary-school,disability]
+tags: [MathOMatic,physical,elementary-school,disability,audio]
 ---
 
 ## Theoretical Education System to Help Blind Students Learn Math

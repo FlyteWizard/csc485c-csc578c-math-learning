@@ -1,5 +1,5 @@
 ---
-tags: [mathematical-learning,university,support,resource,self-paced,self-directed]
+tags: [mathematical-learning,university,support,resource,self-paced]
 ---
 
 ## Learning Math for Students in University

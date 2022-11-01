@@ -1,5 +1,5 @@
 ---
-tags: [problem-based,video,visual-learning,web-based,youtube,khan-academy]
+tags: [video,visual-learning,web-based,youtube,khan-academy]
 ---
 
 ## Khan Academy to Support Mathematics Learning

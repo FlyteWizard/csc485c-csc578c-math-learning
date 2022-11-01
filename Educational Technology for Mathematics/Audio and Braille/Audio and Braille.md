@@ -1,6 +1,6 @@
 ---
 alias: [Taylor Frame]
-tags: [audio,learning,mathematics,braille,text-to-speech]
+tags: [audio,learning,mathematics,braille,text-to-speech,math2braille,mathomatic,nemeth-code,REMathEx]
 ---
 
 ## Learning Math with Audio and Braille Systems

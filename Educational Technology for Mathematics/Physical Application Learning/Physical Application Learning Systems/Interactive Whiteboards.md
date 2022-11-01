@@ -1,5 +1,5 @@
 ---
-tags: [whiteboard,pre-school,grade-school,high-school]
+tags: [whiteboard,elementary-school,grade-school,high-school]
 ---
 
 ## Interactive Whiteboards for Teaching Mathematics

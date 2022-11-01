@@ -1,5 +1,5 @@
 ---
-tags: [nemeth-code,braille,mobile]
+tags: [nemeth-code,braille,mobile-based]
 ---
 
 ## Learning Nemeth Code with NC Tutor Mobile Application
