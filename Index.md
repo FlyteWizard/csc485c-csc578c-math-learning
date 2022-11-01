@@ -44,7 +44,7 @@
 > 7. [[Virtual Reality]]
 > 	7.1 [[ClassVR]]
 > 	7.2 [[NeoTrieVR]]
-> 	7.2 [[VRMath]]
+> 	7.3 [[VRMath]]
 > 8. [[Web Based Learning]]
 > 	8.1 [[Desmos]]
 > 	8.2 [[Excel]]
