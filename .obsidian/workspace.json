@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "31c347d7120f96e5",
+        "id": "cedfc8e0ab627ec9",
         "type": "tabs",
         "children": [
           {
-            "id": "664e2040611b3307",
+            "id": "6a4b370b9d661620",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Types of Learning/Game-Based Learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fc19881804035582",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Index.md",
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Index.md"
+                "file": "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md"
               }
             }
           }
@@ -150,17 +137,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "882623f1185657ad",
+  "active": "6a4b370b9d661620",
   "lastOpenFiles": [
-    "Assets/Graphic Organizer.png",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Graphic Organizers.md",
-    "Types of Learning/Game-Based Learning.md",
-    "Types of Learning/Elementary School.md",
-    "Index.md",
-    "Types of Learning/Learning.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools.md",
+    "Educational Technology for Mathematics/Educational Technology.md",
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
     "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Video.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/KhanAcademy.md",
-    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Sites/Mathway.com.md"
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
+    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
+    "Types of Learning/Game-Based Learning.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile-Based Learning.md",
+    "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Graphic Organizers.md",
+    "Educational Technology for Mathematics/Mobile Based Learning/Mobile Systems/Albert.md"
   ]
 }

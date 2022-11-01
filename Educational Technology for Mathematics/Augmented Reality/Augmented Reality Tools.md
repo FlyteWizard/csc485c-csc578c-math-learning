@@ -4,9 +4,9 @@ tags: [augmented-reality,tools,tuoi]
 
 ## Tools For Creating Augmented Reality Applications
 
-The focus of [[Augmented Reality]] is to provide a blended instructional strategy for educators. Thus, the main focus is allowing users to explore and interact with previous 2D exclusive objects and concepts. In other words, it can be viewed as providing a large range of physical objects to be manipulated.
+The focus of [[Augmented Reality]] (AR) is to provide a blended instructional strategy for educators. Thus, the main focus is allowing users to explore and interact with previous 2D exclusive objects and concepts. In other words, it can be viewed as providing a large range of physical objects to be manipulated.
 
-There are several tools used to create [[augmented reality]] applications. Tools like Unity 3D and Vuforia SDK are better in terms of usability to support the development process, because they are more user friendly.
+There are several tools used to create AR applications. Tools like Unity 3D and Vuforia SDK are better in terms of usability to support the development process, because they are more user friendly.
 
 ## Tools
 
