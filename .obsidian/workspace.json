@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md"
+                "file": "Educational Technology for Mathematics/Artificial Intelligence/Artificial Intelligence.md"
               }
             }
           }
@@ -139,15 +139,15 @@
   },
   "active": "440a2ab2a187b8db",
   "lastOpenFiles": [
+    "Educational Technology for Mathematics/Artificial Intelligence/Machine Learning.md",
     "Educational Technology for Mathematics/Educational Technology.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/math2braille.md",
     "Educational Technology for Mathematics/Audio and Braille/Audio and Braille.md",
     "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/REMathEx.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/MathOMatic Blocks.md",
+    "Educational Technology for Mathematics/Audio and Braille/Audio and Braille Systems/Nemeth Code.md",
     "Educational Technology for Mathematics/Web Based Learning/Web Based Learning Systems/Graphic Organizers.md",
     "Educational Technology for Mathematics/Augmented Reality/Augmented Reality.md",
-    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/CETA.md",
-    "Educational Technology for Mathematics/Mixed Reality/Mixed Reality Systems/Mixed Reality with Tangibles.md",
-    "Types of Learning/Game-Based Learning.md"
+    "Educational Technology for Mathematics/Augmented Reality/Augmented Reality Tools.md"
   ]
 }
