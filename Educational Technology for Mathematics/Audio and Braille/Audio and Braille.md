@@ -16,6 +16,6 @@ Figure 1. Taylor Mathematical Frame. A tactile mathematical tool. [^3].
 
 Audio systems can also help students learn numbers with the reinforcement learning method. For example, counting numbers as they appear on a screen.
 
-[^1]: LaTeX. (2022). \[Online\]. Available: https://www.latex-project.org. \[Accessed: 30-Oct-2022\].
-[^2]: L. Nahar, R. Sulaiman, and A. Jaafar. "An Interactive Math Braille Learning Application to Assist Blind Students in Bangledesh". (2022). Available: https://doi.org/10.1080/10400435.2020.1734112. \[Accessed: 30-Oct-2022\].
-[^3]: Prime Braille. Taylor Slate (For Mathematics). \[Online\]. Available: https://primebraille.lk/taylor-slate-for-mathematics/. \[Accessed: 30-Oct-2022\].
+[^1]: LaTeX, _The LaTeX Project_, 2022. [Online]. Accessed: Oct. 30, 2022. Available: https://www.latex-project.org.
+[^2]: L. Nahar, R. Sulaiman, and A. Jaafar, ‘An interactive math braille learning application to assist blind students in Bangladesh.’, _Assist Technology_, vol. 34, no. 2, pp. 157–169, Mar. 2022, doi: [10.1080/10400435.2020.1734112](https://doi.org/10.1080/10400435.2020.1734112).
+[^3]: Prime Braille. _Taylor Slate (For Mathematics)_. Accessed: Oct. 30, 2022. [Online]. Available: https://primebraille.lk/taylor-slate-for-mathematics/.
